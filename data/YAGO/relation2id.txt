@@ -1,0 +1,10 @@
+<was_Born_In>	0
+<died_In>	7
+<works_At>	1
+<plays_For>	2
+<has_Won_Prize>	3
+<is_Married_To>	4
+<owns>	5
+<graduated_From>	6
+<is_Affiliated_To>	8
+<created>	9

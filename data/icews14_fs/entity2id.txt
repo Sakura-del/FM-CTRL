@@ -1,0 +1,2955 @@
+AB Lithuanian Gas	0
+ADF-NALU	1
+AK Singh	2
+ANC Youth League	3
+ASEAN Defense Ministers	4
+Aam Aadmi Party	5
+Abdel Fattah Al-Sisi	6
+Abdelhamid Abou Zeid	7
+Abdelilah Benkirane	8
+Abdelkader Messahel	9
+Abdeslam Bouchouareb	10
+Abdirahman Ducaale Bayle	11
+Abdiweli Shaykh Ahmad	12
+Abdiweli Sheikh Ahmed	13
+Abdolreza Rahmani-Fazli	14
+Abdoulaye Bathily	15
+Abdoulaye Wade	16
+Abdul'aziz Abubakar Yari	17
+Abdul Aziz	18
+Abdul Hamid	19
+Abdul Karim Tunda	20
+Abdulla Yameen	21
+Abdullah Abdullah	22
+Abdullah Gül	23
+Abdullah bin Nasser bin Khalifa Al-Thani	24
+Abdulrahman Kinana	25
+Abdulsalami Alhaji Abubakar	26
+Abhisit Vejjajiva	27
+Abu Bakr Abdullah al-Qirbi	28
+Abu Bakr al-Baghdadi	29
+Abu Salem	30
+Abu Sayyaf	31
+Abu al-Walid	32
+Academic Staff Union of Universities	33
+Activist (Azerbaijan)	34
+Activist (Belarus)	35
+Activist (Cambodia)	36
+Activist (Colombia)	37
+Activist (Communist Party of India)	38
+Activist (Cote d'Ivoire)	39
+Activist (Hezbul Mujahedeen)	40
+Activist (Jamaat I Islami)	41
+Activist (Niger)	42
+Activist (Nigeria)	43
+Activist (Syria)	44
+Activist (Thailand)	45
+Activist (United States)	46
+Actor (Bahrain)	47
+Actor (Gabon)	48
+Adama Dieng	49
+Adams Oshiomhole	50
+Adebisi Akande	51
+Adil Abdul-Mahdi	52
+Adilbek Dzhaksybekov	53
+Adli Mansour	54
+Administrative Department of Security	55
+Admiral (China)	56
+Admiral (India)	57
+Admiral (Iran)	58
+Admiral (Romania)	59
+Adrian Edwards	60
+Aero Vodochody	61
+Afenifere	62
+Afghan National Army	63
+Afghanistan	64
+Afonso Pedro Canga	65
+African Union	66
+Agence France-Presse	67
+Aggrey Tisa Sabuni	68
+Agriculture / Fishing / Forestry Ministry (Fiji)	69
+Agriculture / Fishing / Forestry Ministry (Netherlands)	70
+Agriculture / Fishing / Forestry Ministry (South Africa)	71
+Agus Dwikarna	72
+Agustín Rossi	73
+Ahmad Zahid Hamidi	74
+Ahmad Zia Abdulzai	75
+Ahmadu Bello University	76
+Ahmed Abu Khatallah	77
+Air Force (Iran)	78
+Air Force (Iraq)	79
+Air Force (North Korea)	80
+Air Force (Sweden)	81
+Air Force (Syria)	82
+Air Force (Taiwan)	83
+Air Force (Turkey)	84
+Air Force (Zambia)	85
+Air France	86
+Airline (Kenya)	87
+Aissata Tall Sall	88
+Akhilesh Yadav	89
+Akif Hamzaçebi	90
+Akitaka Saiki	91
+Akja Nuberdiyeva	92
+Al-Akhbar	93
+Al-Azhar University	94
+Al-Marada Movement	95
+Al-Mustaqbal	96
+Al-Shabaab	97
+Al Arabiya	98
+Al Jazeera	99
+Al Wafa	100
+Al Wefaq National Islamic Society	101
+Alaa Abdel Fattah	102
+Aladdin Boroujerdi	103
+Alan Peter Cayetano	104
+Alan Wilson	105
+Alberto Fujimori	106
+Aleksandre Chikaidze	107
+Alex Badeh	108
+Alex Salmond	109
+Alexander Grushko	110
+Alexander Lukashevich	111
+Alexander Stubb	112
+Alexander Vasilyevich Bortnikov	113
+Alexei Miller	114
+Alexis Tsipras	115
+Alfred Mutua	116
+Algirdas Butkevičius	117
+Alhaji Aliko Dangote	118
+Alhaji Garba Umar	119
+Alhaji Lai Mohammed	120
+Ali Abdullah Saleh	121
+Ali Al-Za'tari	122
+Ali Bongo Ondimba	123
+Ali Jannati	124
+Ali Tayyebnia	125
+Aliyu Mohammed Gusau	126
+All India Sikh Students Federation	127
+Alpha Condé	128
+Amason Kingi	129
+American Chamber of Commerce	130
+American Refugee Committee	131
+Amin Makki Madani	132
+Amina Mohamed	133
+Amit Shah	134
+Amnesty International	135
+Amr Mohammed Moussa	136
+Anandiben Patel	137
+Ananth Kumar	138
+Anders Borg	139
+Anders Breivik	140
+Andrea Orlando	141
+Andrei Kelin	142
+Andrei Klepach	143
+Andrei Stenin	144
+Andrej Babis	145
+Andrej Kiska	146
+Andrew Robb	147
+Andrew Wilkie	148
+Andrius Kubilius	149
+Angel Luis D'Elia	150
+Angela Merkel	151
+Angola	152
+Angolan Armed Forces	153
+Anifah Aman	154
+Annick Girardin	155
+Anote Tong	156
+Ante Kotromanović	157
+Anthony Martinez	158
+Anti Defamation League	159
+Antonio Saca	160
+Antonis Samaras	161
+Anupong Paochinda	162
+Appeals Court (South Korea)	163
+Appeals Court (Sweden)	164
+Archbishop (Australia)	165
+Argentine Industrial Union	166
+Aristide Sokambi	167
+Arkady Dvorkovich	168
+Armed Band (Afghanistan)	169
+Armed Band (Africa)	170
+Armed Band (Algeria)	171
+Armed Band (Central African Republic)	172
+Armed Band (India)	173
+Armed Band (Lebanon)	174
+Armed Band (Philippines)	175
+Armed Band (South Africa)	176
+Armed Band (South Sudan)	177
+Armed Band (Syria)	178
+Armed Band (Tunisia)	179
+Armed Band (Uganda)	180
+Armed Forces of the Republic of Armenia	181
+Armed Gang (Afghanistan)	182
+Armed Gang (Al Qaeda)	183
+Armed Gang (Denmark)	184
+Armed Gang (Egypt)	185
+Armed Gang (India)	186
+Armed Gang (Lebanon)	187
+Armed Gang (Libya)	188
+Armed Gang (Mexico)	189
+Armed Gang (Palestinian Territory, Occupied)	190
+Armed Gang (RENAMO)	191
+Armed Gang (Singapore)	192
+Armed Gang (Somalia)	193
+Armed Gang (Syria)	194
+Armed Gang (Thailand)	195
+Armed Gang (United Kingdom)	196
+Armed Gang (United States)	197
+Armed Opposition (Nigeria)	198
+Armed Opposition (Thailand)	199
+Armed Rebel (Afghanistan)	200
+Armed Rebel (Boko Haram)	201
+Armed Rebel (Mali)	202
+Armed Rebel (Mozambique)	203
+Armed Rebel (Syria)	204
+Armed Rebel (Ukraine)	205
+Armed Rebel (Yemen)	206
+Armed Separatist (Xinjiang Uyghur)	207
+Armenia	208
+Army National Guard (United States)	209
+Army National Guard (Venezuela)	210
+Arnaud Montebourg	211
+Arsen Avakov	212
+Arseniy Yatsenyuk	213
+Asang Laol	214
+Ashok Kumar	215
+Ashraf Ghani Ahmadzai	216
+Assemblies (Armenia)	217
+Assemblies (France)	218
+Assemblies (Nigeria)	219
+Assemblies (Slovenia)	220
+Associated Press	221
+Association of Southeast Asian Nations	222
+Asylum Seeker (Africa)	223
+Asylum Seeker (Nauru)	224
+Atef Tarawneh	225
+Atkins	226
+Attack Craft (United States)	227
+Attack Helicopter (Russia)	228
+Attacker (Afghanistan)	229
+Attacker (Al Qaeda)	230
+Attacker (Colombia)	231
+Attacker (Indonesia)	232
+Attacker (Lebanon)	233
+Attacker (Libya)	234
+Attacker (Niger)	235
+Attacker (Saudi Arabia)	236
+Attacker (Tunisia)	237
+Attahiru Dalhatu Bafarawa	238
+Attorney General (Angola)	239
+Attorney General (Argentina)	240
+Attorney General (Canada)	241
+Attorney General (Colombia)	242
+Attorney General (Egypt)	243
+Attorney General (Kuwait)	244
+Attorney General (Papua New Guinea)	245
+Augustine Ngafuan	246
+Augusto Pinochet	247
+Australia Greens	248
+Austria Press Agency	249
+Awami (People's) League	250
+Axel Kicillof	251
+Ayatollah Seyyed Ahmad Alamolhoda	252
+Ayman Farid Abu-Hadid	253
+Ayman al-Zawahri	254
+Ayodeji Daramola	255
+Azam Khan	256
+Azubuike Ihejirika	257
+Aïchatou Mindaoudou Souleymane	258
+Babacar Gaye	259
+Bahamas	260
+Bahrain	261
+Bakir Izetbegović	262
+Bala Abdulkadir Mohammed	263
+Bala Garba-Jahumpa	264
+Bala Ngilari	265
+Balarabe Musa	266
+Baljinder Singh	267
+Balwinder Singh	268
+Bandar bin Sultan	269
+Bangladesh Nationalist Party	270
+Bank (Bulgaria)	271
+Bank (Canada)	272
+Bank (France)	273
+Bank (Jordan)	274
+Bank (Tajikistan)	275
+Bank (Venezuela)	276
+Bank (Zimbabwe)	277
+Barack Obama	278
+Barisan Revolusi Nasional	279
+Barnaba Marial Benjamin	280
+Barnaby Joyce	281
+Behrouz Kamalvandi	282
+Benjamin Netanyahu	283
+Berkin Elvan	284
+Bhupinder Singh Hooda	285
+Bhutan	286
+Bill Blair	287
+Bill Richardson	288
+Binyamin Ben-Eliezer	289
+Bishop (Benin)	290
+Bishop (Nigeria)	291
+Bishop (North Korea)	292
+Bishop (South Africa)	293
+Bishop (South Sudan)	294
+Bismillah Khan Mohammadi	295
+Blogger (China)	296
+Blogger (Iran)	297
+Boko Haram	298
+Bolivia	299
+Border Security Force	300
+Bothaina Kamel	301
+Botswana	302
+Brahmin (India)	303
+Branko Grcic	304
+Bratislav Gasic	305
+Buba Galadima	306
+Buddhist (Sri Lanka)	307
+Bukola Saraki	308
+Bureaucrat (India)	309
+Burundi	310
+Business (Africa)	311
+Business (Algeria)	312
+Business (Austria)	313
+Business (Bahrain)	314
+Business (Bangladesh)	315
+Business (Belarus)	316
+Business (Bulgaria)	317
+Business (Canada)	318
+Business (Cote d'Ivoire)	319
+Business (Croatia)	320
+Business (Georgia)	321
+Business (Hungary)	322
+Business (Indonesia)	323
+Business (Iran)	324
+Business (Iraq)	325
+Business (Jordan)	326
+Business (Lithuania)	327
+Business (Netherlands)	328
+Business (New Zealand)	329
+Business (Poland)	330
+Business (Russia)	331
+Business (South Korea)	332
+Business (Sweden)	333
+Business (Taiwan)	334
+Business (Tanzania)	335
+Business (Zimbabwe)	336
+Businessperson (Australia)	337
+Businessperson (China)	338
+Businessperson (France)	339
+Businessperson (Germany)	340
+Businessperson (Jamaica)	341
+Businessperson (Kenya)	342
+Businessperson (Philippines)	343
+Businessperson (Somalia)	344
+Businessperson (South Africa)	345
+Businessperson (United Kingdom)	346
+Businessperson (United States)	347
+Børge Brende	348
+CPI	349
+Cabinet / Council of Ministers / Advisors (Angola)	350
+Cabinet / Council of Ministers / Advisors (Australia)	351
+Cabinet / Council of Ministers / Advisors (Belarus)	352
+Cabinet / Council of Ministers / Advisors (Benin)	353
+Cabinet / Council of Ministers / Advisors (Cyprus)	354
+Cabinet / Council of Ministers / Advisors (Haiti)	355
+Cabinet / Council of Ministers / Advisors (Hungary)	356
+Cabinet / Council of Ministers / Advisors (Israel)	357
+Cabinet / Council of Ministers / Advisors (Japan)	358
+Cabinet / Council of Ministers / Advisors (Jordan)	359
+Cabinet / Council of Ministers / Advisors (Libya)	360
+Cabinet / Council of Ministers / Advisors (Panama)	361
+Cabinet / Council of Ministers / Advisors (Somalia)	362
+Cabinet / Council of Ministers / Advisors (Sudan)	363
+Cabinet / Council of Ministers / Advisors (Thailand)	364
+Cabinet / Council of Ministers / Advisors (Turkmenistan)	365
+Cabinet / Council of Ministers / Advisors (United States)	366
+Cable News Network	367
+Cairo University	368
+Caitlin Hayden	369
+Cambodia	370
+Cameroon	371
+Campbell Newman	372
+Canada	373
+Canadian Armed Forces	374
+Carlos Pascual	375
+Carlos Raúl Morales	376
+Carlos Saul Menem	377
+Caroline Kennedy	378
+Caroline Nzibe	379
+Carrie Lam	380
+Catherine Ashton	381
+Catholic Bishop (Romania)	382
+Cenaida Uribe	383
+Central Bank of Liberia	384
+Central Bank of Russia	385
+Central Bank of the Islamic Republic of Iran	386
+Central Intelligence Agency	387
+Central Reserve Police Force	388
+Chang Song Taek	389
+Chang Wanquan	390
+Charge D'affaires (United States)	391
+Charles Chen	392
+Charles de Gaulle	393
+Chaturon Chaisang	394
+Chaudhry Nisar Ali Khan	395
+Chee Soon Juan	396
+Chen Deming	397
+Chen Guangcheng	398
+Cheng Guoping	399
+Cheng Yonghua	400
+Chibuike Rotimi Amaechi	401
+Chief Court Judge (Gambia)	402
+Chief Court Judge (United States)	403
+Chief of Staff (Qatar)	404
+Chief of Staff (Vietnam)	405
+Children (Canada)	406
+Children (China)	407
+Children (Congo)	408
+Children (France)	409
+Children (Germany)	410
+Children (Iraq)	411
+Children (Israel)	412
+Children (Jamaica)	413
+Children (Macedonia)	414
+Children (Palestinian Territory, Occupied)	415
+Children (Philippines)	416
+Children (South Sudan)	417
+Children (Sudan)	418
+Children (Swaziland)	419
+Children (Thailand)	420
+Children (Uganda)	421
+Children (Zimbabwe)	422
+China	423
+China Airlines	424
+China National Petroleum Corporation	425
+Chiz Escudero	426
+Cho Tai-young	427
+Chongwadai	428
+Chris Alexander	429
+Chris Bowen	430
+Chris Murphy	431
+Chris Olukolade	432
+Chris Patten	433
+Christian (Holy See (Vatican City State))	434
+Christian (Syria)	435
+Christian (United States)	436
+Christian Democratic Party (Slovakia)	437
+Christian Democratic Union	438
+Christoph Strasser	439
+Chuck Hagel	440
+Citizen (Australia)	441
+Citizen (Bangladesh)	442
+Citizen (Belarus)	443
+Citizen (Belgium)	444
+Citizen (Benin)	445
+Citizen (Botswana)	446
+Citizen (Brazil)	447
+Citizen (Brunei)	448
+Citizen (Bulgaria)	449
+Citizen (Cote d'Ivoire)	450
+Citizen (Croatia)	451
+Citizen (Czech Republic)	452
+Citizen (Denmark)	453
+Citizen (Djibouti)	454
+Citizen (Georgia)	455
+Citizen (Germany)	456
+Citizen (Greece)	457
+Citizen (Guinea)	458
+Citizen (Guinea-Bissau)	459
+Citizen (Guyana)	460
+Citizen (Hungary)	461
+Citizen (India)	462
+Citizen (Indonesia)	463
+Citizen (International)	464
+Citizen (Kenya)	465
+Citizen (Kyrgyzstan)	466
+Citizen (Lithuania)	467
+Citizen (Macao)	468
+Citizen (Malaysia)	469
+Citizen (Mali)	470
+Citizen (Mauritania)	471
+Citizen (Mauritius)	472
+Citizen (Mongolia)	473
+Citizen (Montenegro)	474
+Citizen (Namibia)	475
+Citizen (Nigeria)	476
+Citizen (North America)	477
+Citizen (North Korea)	478
+Citizen (Norway)	479
+Citizen (Oman)	480
+Citizen (Saudi Arabia)	481
+Citizen (Singapore)	482
+Citizen (Slovakia)	483
+Citizen (South Korea)	484
+Citizen (Sudan)	485
+Citizen (Tanzania)	486
+Citizen (Thailand)	487
+Citizen (Togo)	488
+Citizen (Tonga)	489
+Citizen (Turkey)	490
+Citizen (Uganda)	491
+Citizen (Unidentified State Actor)	492
+Citizen (United Arab Emirates)	493
+Citizen (United Kingdom)	494
+Citizen (Venezuela)	495
+Citizen (Yemen)	496
+Citizen (Zambia)	497
+City Mayor (Argentina)	498
+City Mayor (China)	499
+City Mayor (Colombia)	500
+City Mayor (Costa Rica)	501
+City Mayor (Croatia)	502
+City Mayor (El Salvador)	503
+City Mayor (Greece)	504
+City Mayor (Indonesia)	505
+City Mayor (Iraq)	506
+City Mayor (Italy)	507
+City Mayor (Jordan)	508
+City Mayor (New Zealand)	509
+City Mayor (Philippines)	510
+City Mayor (Somalia)	511
+City Mayor (South Africa)	512
+City Mayor (Ukraine)	513
+City Mayor (United States)	514
+City Mayor (Venezuela)	515
+Civic Coalition	516
+Civic Democratic Party	517
+Civic Group (Afghanistan)	518
+Civic Group (Argentina)	519
+Civic Group (India)	520
+Civic Group (Iran)	521
+Civic Group (Kenya)	522
+Civil Aviation Authority	523
+Civil Aviation Authority of the Philippines	524
+Civil Guard	525
+Civil Servant (India)	526
+Civil Servant (Thailand)	527
+Civil Servant (United Kingdom)	528
+Civil Servant (Zambia)	529
+Civil Servant (Zimbabwe)	530
+Clergy (Holy See (Vatican City State))	531
+Clergy (Nigeria)	532
+Cleric (Australia)	533
+Cleric (Iraq)	534
+Cleric (Nigeria)	535
+Cleric (Pakistan)	536
+Clydesdale Bank	537
+Coalition of the Radical Left	538
+Colombia	539
+Combatant (Al-Shabaab)	540
+Combatant (Australia)	541
+Combatant (Iraqi Kurds)	542
+Combatant (Islamic State of Iraq and the Levant)	543
+Combatant (Jabhat al-Nusra)	544
+Combatant (Kenya)	545
+Combatant (Mali)	546
+Combatant (Palestinian Territory, Occupied)	547
+Combatant (Taliban)	548
+Combatant (Yemen)	549
+Commando (India)	550
+Commonwealth Parliamentary Association	551
+Communist Party of Bohemia and Moravia	552
+Communist Party of India	553
+Communist Partysri Lanka	554
+Comoros	555
+Company - Owner or Operator (El Salvador)	556
+Company - Owner or Operator (Ghana)	557
+Company - Owner or Operator (India)	558
+Company - Owner or Operator (Iran)	559
+Company - Owner or Operator (Italy)	560
+Company - Owner or Operator (Nigeria)	561
+Company - Owner or Operator (Singapore)	562
+Company - Owner or Operator (Thailand)	563
+Company - Owner or Operator (Turkey)	564
+Company - Owner or Operator (Zambia)	565
+Conference of Nigerian Political Parties	566
+Confindustria	567
+Congo	568
+Congress (Argentina)	569
+Congress (Nigeria)	570
+Congress (Philippines)	571
+Congress (United States)	572
+Congress for Democratic Change	573
+Congress of South African Trade Unions	574
+Conservative Party (United Kingdom)	575
+Constitutional Court (Romania)	576
+Constitutional Court (Slovakia)	577
+Council of Europe	578
+Council of Representatives	579
+Council of States	580
+Coup D'etat Leader (Thailand)	581
+Court Judge (Bahrain)	582
+Court Judge (Belarus)	583
+Court Judge (Egypt)	584
+Court Judge (India)	585
+Court Judge (Kenya)	586
+Court Judge (Lebanon)	587
+Court Judge (Malaysia)	588
+Court Judge (Mexico)	589
+Court Judge (Namibia)	590
+Court Judge (Nigeria)	591
+Court Judge (Peru)	592
+Court Judge (Thailand)	593
+Court Judge (United Kingdom)	594
+Court Judge (Venezuela)	595
+Court Judge (Zambia)	596
+Criminal (Albania)	597
+Criminal (Argentina)	598
+Criminal (Australia)	599
+Criminal (Bangladesh)	600
+Criminal (Belgium)	601
+Criminal (Boko Haram)	602
+Criminal (Brazil)	603
+Criminal (Cambodia)	604
+Criminal (Central African Republic)	605
+Criminal (Cote d'Ivoire)	606
+Criminal (Egypt)	607
+Criminal (El Salvador)	608
+Criminal (Guatemala)	609
+Criminal (Guinea)	610
+Criminal (Ireland)	611
+Criminal (Israel)	612
+Criminal (Jamaica)	613
+Criminal (Kosovo)	614
+Criminal (Latvia)	615
+Criminal (Mali)	616
+Criminal (Mexico)	617
+Criminal (Pakistan)	618
+Criminal (Palestinian Territory, Occupied)	619
+Criminal (Philippines)	620
+Criminal (Somalia)	621
+Criminal (South Korea)	622
+Criminal (Tanzania)	623
+Criminal (Tunisia)	624
+Criminal (United Arab Emirates)	625
+Criminal (Venezuela)	626
+Cristina Fernández de Kirchner	627
+Curacao	628
+Customs Official (India)	629
+Customs Official (Singapore)	630
+Cyprian Awiti	631
+DPWH	632
+Daily Monitor	633
+Daily Trust	634
+Dan Diaconescu	635
+Daniel Barrera Barrera	636
+Daniel Chitoiu	637
+Daniel Constantin	638
+Daniel Mitov	639
+Daniel Ortega	640
+Daniel Russel	641
+Daniel Scioli	642
+Danjuma Goje	643
+Datuk Mah Siew Keong	644
+Datuk Seri Tengku Adnan Tengku Mansor	645
+David Choquehuanca	646
+David N. Dinkins	647
+David Nabarro	648
+David Yau-Yau	649
+Davies Ibiamu Ikanya	650
+Davit Usupashvili	651
+Dawa Khan Minapal	652
+Defector (Nigeria)	653
+Defector (North Korea)	654
+Defense / Security Ministry (Angola)	655
+Defense / Security Ministry (Armenia)	656
+Defense / Security Ministry (Azerbaijan)	657
+Defense / Security Ministry (Chile)	658
+Defense / Security Ministry (China)	659
+Defense / Security Ministry (Egypt)	660
+Defense / Security Ministry (India)	661
+Defense / Security Ministry (Iraq)	662
+Defense / Security Ministry (Italy)	663
+Defense / Security Ministry (Liberia)	664
+Defense / Security Ministry (Libya)	665
+Defense / Security Ministry (Moldova)	666
+Defense / Security Ministry (Nigeria)	667
+Defense / Security Ministry (Persian Gulf)	668
+Defense / Security Ministry (Poland)	669
+Defense / Security Ministry (Russia)	670
+Defense / Security Ministry (Slovakia)	671
+Defense / Security Ministry (South Africa)	672
+Defense / Security Ministry (South Sudan)	673
+Defense / Security Ministry (Spain)	674
+Defense / Security Ministry (Ukraine)	675
+Defense / Security Ministry (United States)	676
+Defense / Security Ministry (Vietnam)	677
+Defense / Security Ministry (Yemen)	678
+Defense Attorney (Namibia)	679
+Demeke Mekonnen	680
+Democratic Force	681
+Democratic Left	682
+Democratic Party	683
+Democratic Party (Czech Republic)	684
+Democratic Party (Nigeria)	685
+Democratic Union of Cameroon	686
+Denis Berezovsky	687
+Denis Napthine	688
+Department of the Treasury	689
+Der Spiegel	690
+Detainee (Afghanistan)	691
+Detainee (Argentina)	692
+Detainee (Australia)	693
+Detainee (Bahrain)	694
+Detainee (Cote d'Ivoire)	695
+Detainee (Lebanon)	696
+Detainee (Myanmar)	697
+Detainee (South Sudan)	698
+Detainee (United States)	699
+Detainee (Venezuela)	700
+Development Council (Nigeria)	701
+Devlet Bahçeli	702
+Dharamvira Gandhi	703
+Didier Burkhalter	704
+Didmus Noel Edwin Mutasa	705
+Dimitrios Avramopoulos	706
+Dimitris Kourkoulas	707
+Director General (Bahrain)	708
+Director General (Cambodia)	709
+Director General (Lebanon)	710
+Director General (Rwanda)	711
+Director General (South Korea)	712
+Director General (Sudan)	713
+Director General (Thailand)	714
+Displaced Families (Sudan)	715
+Dissident (Azerbaijan)	716
+Dissident (China)	717
+Dissident (Iran)	718
+District Commissioner (Tanzania)	719
+District Commissioner (Zambia)	720
+Djibouti	721
+Djoko Suyanto	722
+Djoomart Otorbaev	723
+Dmitriy Kiselev	724
+Dmitry Anatolyevich Medvedev	725
+Dmitry Olegovich Rogozin	726
+Dmytro Bulatov	727
+Dmytro Firtash	728
+Doctors Without Borders	729
+Domestic Affairs (Angola)	730
+Domestic Affairs (Australia)	731
+Domestic Affairs (Colombia)	732
+Domestic Affairs (France)	733
+Domestic Affairs (Germany)	734
+Domestic Affairs (Kenya)	735
+Domestic Affairs (Lebanon)	736
+Domestic Affairs (Nigeria)	737
+Domestic Affairs (Spain)	738
+Domestic Affairs (Sudan)	739
+Domestic Affairs (Yemen)	740
+Domingos Simões Pereira	741
+Dominican Republic	742
+Dora Akunyili	743
+Drug Enforcement Administration	744
+Drug Gang (Mexico)	745
+Drug Gang (Uganda)	746
+Dunya Maumoon	747
+Dzhokhar Tsarnaev	748
+East African Community	749
+East Turkistan Islamic Movement	750
+Economic Cooperation Organization	751
+Economist (Canada)	752
+Economist (China)	753
+Ed Royce	754
+Edgars Rinkevics	755
+Edmond Mulet	756
+Edouard Balladur	757
+Eduard Shevardnadze	758
+Education (Azerbaijan)	759
+Education (Colombia)	760
+Education (Greece)	761
+Education (Iran)	762
+Education (Iraq)	763
+Education (Israel)	764
+Education (Nigeria)	765
+Education (Pakistan)	766
+Education (Peru)	767
+Education (Tanzania)	768
+Education (Trinidad and Tobago)	769
+Education Ministry (Algeria)	770
+Education Ministry (Angola)	771
+Education Ministry (Bangladesh)	772
+Education Ministry (China)	773
+Education Ministry (France)	774
+Education Ministry (Iran)	775
+Education Ministry (Namibia)	776
+Education Ministry (Pakistan)	777
+Education Ministry (Philippines)	778
+Education Ministry (Saudi Arabia)	779
+Education Ministry (Singapore)	780
+Education Ministry (Uganda)	781
+Education Ministry (United Arab Emirates)	782
+Edwin Clark	783
+Edwin Kanguatjivi	784
+Edwin Lacierda	785
+Efkan Ala	786
+Egyptian Army	787
+Election Commission (Afghanistan)	788
+Election Commission (Bulgaria)	789
+Election Commission (India)	790
+Election Commission (Iran)	791
+Elections Canada	792
+Elias Camsek Chin	793
+Elizabeth II	794
+Elizabeth Warren	795
+Elmar Mammadyarov	796
+Elyor Ganiyev	797
+Embraer	798
+Emeka Ihedioha	799
+Emma Bonino	800
+Emmanuel Eweta Uduaghan	801
+Emperor Akihito	802
+Employee (Afghanistan)	803
+Employee (Bangladesh)	804
+Employee (Bosnia and Herzegovina)	805
+Employee (Guatemala)	806
+Employee (Hong Kong)	807
+Employee (India)	808
+Employee (Iraq)	809
+Employee (Israel)	810
+Employee (Jordan)	811
+Employee (Kenya)	812
+Employee (Lebanon)	813
+Employee (Libya)	814
+Employee (Malaysia)	815
+Employee (Philippines)	816
+Employee (Tanzania)	817
+Employee (Uganda)	818
+Emrullah Isler	819
+Energy Corp (Russia)	820
+Energy Department/Ministry (Germany)	821
+Energy Department/Ministry (Iran)	822
+Energy Department/Ministry (Philippines)	823
+Energy Department/Ministry (Romania)	824
+Energy Department/Ministry (United Arab Emirates)	825
+Engineer (Colombia)	826
+Enver Hoxhaj	827
+Environment Department/Ministry (India)	828
+Envoy (Japan)	829
+Envoy (Qatar)	830
+Envoy (Saudi Arabia)	831
+Envoy (United Kingdom)	832
+Envoy (United States)	833
+Epeli Nailatikau	834
+Eritrea	835
+Ertharin Cousin	836
+Eshaq Jahangiri	837
+Estonian Parliament	838
+Ethiopia	839
+Ethnic Group (Cameroon)	840
+Ethnic Group (India)	841
+Ethnic Group (Nigeria)	842
+Eurasian Economic Community	843
+European Central Bank	844
+European Parliament	845
+Eustarckio Kazonga	846
+Evangelos Meimarakis	847
+Evangelos Venizelos	848
+Evo Morales	849
+Extremist (Boko Haram)	850
+Extremist (Syria)	851
+Fang Fenghui	852
+Farm Worker (Burkina Faso)	853
+Farm Worker (Namibia)	854
+Farm Worker (Nigeria)	855
+Farm Worker (Thailand)	856
+Farooq Abdullah	857
+Federal Bank	858
+Federal Judge (Argentina)	859
+Federica Mogherini	860
+Felipe de Borbon	861
+Femi Falana	862
+Fernando Gonzalez	863
+Fernando Henrique Cardoso	864
+Fessehaye Yohannes	865
+Festus Keyamo	866
+Fidesz	867
+Fighter Bomber (China)	868
+Fighter Bomber (Iran)	869
+Fighter Bomber (Nigeria)	870
+Fiji	871
+Finance / Economy / Commerce / Trade Ministry (Philippines)	872
+Fire Brigade (Australia)	873
+Firhad Hakim	874
+Fishermen (India)	875
+Fishermen (Indonesia)	876
+Fishermen (Sri Lanka)	877
+Fishermen (Vietnam)	878
+Food and Agriculture Organization	879
+Foreign Affairs (Argentina)	880
+Foreign Affairs (Austria)	881
+Foreign Affairs (Belarus)	882
+Foreign Affairs (Belgium)	883
+Foreign Affairs (Benin)	884
+Foreign Affairs (Brunei)	885
+Foreign Affairs (Chad)	886
+Foreign Affairs (Chile)	887
+Foreign Affairs (Czech Republic)	888
+Foreign Affairs (Ethiopia)	889
+Foreign Affairs (Gambia)	890
+Foreign Affairs (Georgia)	891
+Foreign Affairs (Guinea-Bissau)	892
+Foreign Affairs (Hungary)	893
+Foreign Affairs (India)	894
+Foreign Affairs (Israel)	895
+Foreign Affairs (Italy)	896
+Foreign Affairs (Kiribati)	897
+Foreign Affairs (Kuwait)	898
+Foreign Affairs (Latvia)	899
+Foreign Affairs (Lebanon)	900
+Foreign Affairs (Libya)	901
+Foreign Affairs (Liechtenstein)	902
+Foreign Affairs (Luxembourg)	903
+Foreign Affairs (Malaysia)	904
+Foreign Affairs (Malta)	905
+Foreign Affairs (Mauritania)	906
+Foreign Affairs (Middle East)	907
+Foreign Affairs (Mongolia)	908
+Foreign Affairs (Nepal)	909
+Foreign Affairs (Norway)	910
+Foreign Affairs (Panama)	911
+Foreign Affairs (Portugal)	912
+Foreign Affairs (Romania)	913
+Foreign Affairs (Russia)	914
+Foreign Affairs (Rwanda)	915
+Foreign Affairs (Senegal)	916
+Foreign Affairs (Singapore)	917
+Foreign Affairs (Slovakia)	918
+Foreign Affairs (South Africa)	919
+Foreign Affairs (South Korea)	920
+Foreign Affairs (Syria)	921
+Foreign Affairs (Taiwan)	922
+Foreign Affairs (Ukraine)	923
+Foreign Affairs (United States)	924
+Foreign Affairs (Uruguay)	925
+Foreign Affairs (Venezuela)	926
+Foreign Affairs (Yemen)	927
+Foreign Affairs (Zambia)	928
+Foreign Affairs (Zimbabwe)	929
+Fotis Kouvelis	930
+Four-Coalition	931
+France	932
+Francis Korkpor	933
+Frank Bainimarama	934
+Frank Mba	935
+Franklin Drilon	936
+François Bozizé	937
+François Hollande	938
+François Rebsamen	939
+Free State High Court	940
+Freedom and Justice Party	941
+French Communist Party	942
+Fuad Masum	943
+Fula people	944
+Fumio Kishida	945
+Gabor Vona	946
+Gabriel Torwua Suswam	947
+Gambia	948
+Garo National Liberation Army	949
+Gazeta Wyborcza	950
+Gazprom	951
+Gediminas Kirkilas	952
+Gen Prayut Chan-o-cha	953
+Gen Tanasak Patimapragorn	954
+George Adwan	955
+George Huruma Mkuchika	956
+George Solo	957
+Gerd Mueller	958
+Gerhard Schröder	959
+Gerrie Nel	960
+Gideon Gono	961
+Gideon Mung'aro	962
+Gideon Sa'ar	963
+Gilberto Kassab	964
+Gina McCarthy	965
+Giorgio Napolitano	966
+Giuseppe Morabito	967
+Gjorge Ivanov	968
+Glaxosmithkline	969
+Godwin Emefiele	970
+Goh Chok Tong	971
+Gordon Darcy Lilo	972
+Government (Africa)	973
+Government (Angola)	974
+Government (Argentina)	975
+Government (Belarus)	976
+Government (Belgium)	977
+Government (Botswana)	978
+Government (Cape Verde)	979
+Government (Costa Rica)	980
+Government (Cote d'Ivoire)	981
+Government (Croatia)	982
+Government (Ecuador)	983
+Government (France)	984
+Government (Georgia)	985
+Government (Germany)	986
+Government (Guatemala)	987
+Government (Guyana)	988
+Government (Haiti)	989
+Government (Italy)	990
+Government (Jamaica)	991
+Government (Kenya)	992
+Government (Latvia)	993
+Government (Madagascar)	994
+Government (Maldives)	995
+Government (Mauritania)	996
+Government (Mexico)	997
+Government (Middle East)	998
+Government (Namibia)	999
+Government (Nauru)	1000
+Government (Nepal)	1001
+Government (New Zealand)	1002
+Government (Nicaragua)	1003
+Government (Nigeria)	1004
+Government (Oman)	1005
+Government (Pakistan)	1006
+Government (Palestinian Territory, Occupied)	1007
+Government (Papua New Guinea)	1008
+Government (Poland)	1009
+Government (Qatar)	1010
+Government (Singapore)	1011
+Government (South Africa)	1012
+Government (Sudan)	1013
+Government (Sweden)	1014
+Government (Syria)	1015
+Government (United Arab Emirates)	1016
+Government (United States)	1017
+Government (Venezuela)	1018
+Government Affiliated Bank (Bahrain)	1019
+Government Affiliated Bank (Ireland)	1020
+Government Delegation (Colombia)	1021
+Government Delegation (North Korea)	1022
+Government Information Agency	1023
+Government Official (Afghanistan)	1024
+Government Official (Angola)	1025
+Government Official (Azerbaijan)	1026
+Government Official (Egypt)	1027
+Government Official (Germany)	1028
+Government Official (Ireland)	1029
+Government Official (Japan)	1030
+Government Official (Mali)	1031
+Government Official (Russia)	1032
+Government Official (Solomon Islands)	1033
+Government Official (South Africa)	1034
+Government Official (Syria)	1035
+Government Official (Taiwan)	1036
+Government Official (Thailand)	1037
+Government Official (United Kingdom)	1038
+Government Official (United States)	1039
+Government Official (Vietnam)	1040
+Government Official (Zimbabwe)	1041
+Governor (Angola)	1042
+Governor (Bahrain)	1043
+Governor (Bolivia)	1044
+Governor (India)	1045
+Governor (Japan)	1046
+Governor (Kenya)	1047
+Governor (Mongolia)	1048
+Governor (Poland)	1049
+Governor (Russia)	1050
+Governor (Somalia)	1051
+Governor (South Africa)	1052
+Governor (South Korea)	1053
+Governor (Thailand)	1054
+Governor (Venezuela)	1055
+Governor (Yemen)	1056
+Governor (Zambia)	1057
+Grand National Party	1058
+Great Council of Chiefs	1059
+Greenpeace	1060
+Grupo Clarín	1061
+Guangxi Zhuang	1062
+Guatemala	1063
+Guenther Oettinger	1064
+Guerrilla (Colombia)	1065
+Guerrilla (National Liberation Army)	1066
+Guerrilla (Revolutionary Armed Forces of Colombia)	1067
+Guerrilla Leader (Revolutionary Armed Forces of Colombia)	1068
+Guillaume Soro	1069
+Guinea	1070
+Guinea-Bissau	1071
+Gulbuddin Hekmatyar	1072
+Gunnar Bragi Sveinsson	1073
+Gurbanguly Berdymukhammedov	1074
+Guy Scott	1075
+Gwangju District Court	1076
+György Matolcsy	1077
+Găgăuzia	1078
+Haaretz	1079
+Hacker (Germany)	1080
+Hacker (India)	1081
+Haider Al-Abadi	1082
+Haiti	1083
+Hakainde Hichilema	1084
+Hamad bin Ali al-Attiyah	1085
+Hamas	1086
+Hamdeen Sabahi	1087
+Hamed Bakayoko	1088
+Hani Dahi	1089
+Hannes Swoboda	1090
+Hanno Pevkur	1091
+Haqqani Network	1092
+Harish Rawat	1093
+Harsimrat Kaur Badal	1094
+Hasan Qazizadeh-Hashemi	1095
+Hashim Thaçi	1096
+Hassan Joho	1097
+Hau Lung-pin	1098
+He Guoqiang	1099
+Head of Government (Afghanistan)	1100
+Head of Government (Bahrain)	1101
+Head of Government (Bangladesh)	1102
+Head of Government (Botswana)	1103
+Head of Government (Brazil)	1104
+Head of Government (Bulgaria)	1105
+Head of Government (Burundi)	1106
+Head of Government (Chad)	1107
+Head of Government (China)	1108
+Head of Government (Colombia)	1109
+Head of Government (Croatia)	1110
+Head of Government (Cyprus)	1111
+Head of Government (Democratic Republic of Congo)	1112
+Head of Government (Ecuador)	1113
+Head of Government (Egypt)	1114
+Head of Government (Ethiopia)	1115
+Head of Government (Gambia)	1116
+Head of Government (Germany)	1117
+Head of Government (Greece)	1118
+Head of Government (Guatemala)	1119
+Head of Government (Guyana)	1120
+Head of Government (India)	1121
+Head of Government (Kenya)	1122
+Head of Government (Kosovo)	1123
+Head of Government (Latvia)	1124
+Head of Government (Lesotho)	1125
+Head of Government (Madagascar)	1126
+Head of Government (Mauritania)	1127
+Head of Government (Mexico)	1128
+Head of Government (Mongolia)	1129
+Head of Government (Mozambique)	1130
+Head of Government (New Zealand)	1131
+Head of Government (Nigeria)	1132
+Head of Government (Pakistan)	1133
+Head of Government (Palestinian Territory, Occupied)	1134
+Head of Government (Peru)	1135
+Head of Government (Poland)	1136
+Head of Government (Qatar)	1137
+Head of Government (Senegal)	1138
+Head of Government (Sierra Leone)	1139
+Head of Government (Slovenia)	1140
+Head of Government (South Korea)	1141
+Head of Government (Sri Lanka)	1142
+Head of Government (Sweden)	1143
+Head of Government (Tajikistan)	1144
+Head of Government (Turkmenistan)	1145
+Head of Government (Ukraine)	1146
+Head of Government (Uruguay)	1147
+Health Ministry (Canada)	1148
+Health Ministry (China)	1149
+Health Ministry (Croatia)	1150
+Health Ministry (Haiti)	1151
+Health Ministry (Iran)	1152
+Health Ministry (Iraq)	1153
+Health Ministry (Jordan)	1154
+Health Ministry (Malaysia)	1155
+Health Ministry (Nigeria)	1156
+Health Ministry (Rwanda)	1157
+Health Ministry (Syria)	1158
+Health Ministry (Venezuela)	1159
+Healthcare Facility (Croatia)	1160
+Healthcare Facility (Iraq)	1161
+Healthcare Facility (Sudan)	1162
+Healthcare Facility (Tanzania)	1163
+Healthcare Facility (Ukraine)	1164
+Heather Mack	1165
+Hedayat Amin Arsala	1166
+Hell's Angels	1167
+Hemant Soren	1168
+Henk Mudge	1169
+Henry Kissinger	1170
+Henry M. Paulson	1171
+Henry Puna	1172
+Heraldo Muñoz	1173
+Herve Ladsous	1174
+Heydar Aliyev	1175
+Hezbollah	1176
+High Commission (United Kingdom)	1177
+High Commission for Refugees	1178
+High Ranking Military Personnel (India)	1179
+High Ranking Military Personnel (Kenya)	1180
+High Ranking Military Personnel (Mauritania)	1181
+High Ranking Military Personnel (Nigeria)	1182
+High Ranking Military Personnel (North Korea)	1183
+High Ranking Military Personnel (Pakistan)	1184
+High Ranking Military Personnel (South Sudan)	1185
+High Ranking Military Personnel (Sri Lanka)	1186
+High Ranking Military Personnel (Taiwan)	1187
+High Ranking Military Personnel (United Arab Emirates)	1188
+High Ranking Military Personnel (Venezuela)	1189
+Hindu (Malaysia)	1190
+Hisham Barakat	1191
+Hisham Zaazou	1192
+Holding Company (Bahrain)	1193
+Homeland Union – Lithuanian Christian Democrats	1194
+Horacio Cartes	1195
+Horacio González	1196
+Hossein Ali Amiri	1197
+Hossein Salami	1198
+House Armed Services Committee	1199
+House Speaker (Liberia)	1200
+House Speaker (Philippines)	1201
+House Speaker (United States)	1202
+House of Representatives (Australia)	1203
+House of Representatives (Bahrain)	1204
+House of Representatives (Indonesia)	1205
+House of Representatives (Jordan)	1206
+House of Representatives (Russia)	1207
+Hu Deping	1208
+Huang Ching-tai	1209
+Human Rights Activist (Azerbaijan)	1210
+Human Rights Commission (Mexico)	1211
+Human Rights Commission (Nigeria)	1212
+Human Rights Group (India)	1213
+Human Rights Group (Ukraine)	1214
+Human Rights Watch	1215
+Hun Sen	1216
+Hung Hsiu-chu	1217
+Hunter (Nigeria)	1218
+Husam Mughazi	1219
+Hynek Kmoníček	1220
+Héctor Beltrán Leyva	1221
+Héctor Méndez	1222
+ITAR TASS	1223
+Ibrahim Baré Maïnassara	1224
+Ibrahim Boubacar Keïta	1225
+Ibrahim Hassan Dankwambo	1226
+Ibrahim Shehu Shema	1227
+Ibrahim Shekarau	1228
+Ignazio Marino	1229
+Igor Ivanovich Shuvalov	1230
+Immigrants (Cambodia)	1231
+Immigrants (Cote d'Ivoire)	1232
+Immigrants (Guatemala)	1233
+Immigrants (Libya)	1234
+Immigrants (Myanmar)	1235
+Immigrants (United States)	1236
+Imran Khan	1237
+Imtiaz Sooliman	1238
+Independent Corrupt Practices Commission	1239
+Indigenous People (Azerbaijan)	1240
+Indigenous People (Ecuador)	1241
+Indigenous People (Ethiopia)	1242
+Indigenous People (Greece)	1243
+Indigenous People (Guatemala)	1244
+Indigenous People (India)	1245
+Indigenous People (Kenya)	1246
+Indigenous People (Malawi)	1247
+Indigenous People (Nigeria)	1248
+Indigenous People (Pakistan)	1249
+Indigenous People (Somalia)	1250
+Indigenous People (South Sudan)	1251
+Indigenous People (Syria)	1252
+Indigenous People (Thailand)	1253
+Indigenous People (United Kingdom)	1254
+Indigenous People (United States)	1255
+Industry (India)	1256
+Industry (South Africa)	1257
+Information / Communication / Transparency Ministry (China)	1258
+Information / Communication / Transparency Ministry (Egypt)	1259
+Information / Communication / Transparency Ministry (Iraq)	1260
+Information / Communication / Transparency Ministry (Ireland)	1261
+Information / Communication / Transparency Ministry (Jordan)	1262
+Information / Communication / Transparency Ministry (Romania)	1263
+Information / Communication / Transparency Ministry (Singapore)	1264
+Information Ministry (Iran)	1265
+Information Ministry (Saudi Arabia)	1266
+Ingrid Betancourt Pulecio	1267
+Inspector General (Colombia)	1268
+Insurgent (Afghanistan)	1269
+Insurgent (Al Qaeda)	1270
+Insurgent (Colombia)	1271
+Insurgent (Islamic State of Iraq and the Levant)	1272
+Insurgent (Thailand)	1273
+Intelligence (India)	1274
+Intelligence (Philippines)	1275
+Intelligence Chief (India)	1276
+Intelligence Chief (Libya)	1277
+Intelligence Chief (Philippines)	1278
+Intelligence Chief (Thailand)	1279
+Intelligence Chief (United States)	1280
+Intelligence Officer (United Arab Emirates)	1281
+Intelligence and Security Committee	1282
+Inter-Services Intelligence	1283
+Interfax	1284
+Interim Government (Central African Republic)	1285
+Interim Government (Egypt)	1286
+Interim Government (Thailand)	1287
+International Association Of Democratic Lawyers	1288
+International Court of Justice	1289
+International Federation of Human Rights	1290
+International Federation of Journalists	1291
+International Federation of Red Cross and Red Crescent Societies	1292
+International Government Organizations	1293
+International Monetary Fund	1294
+Irakli Alasania	1295
+Iran	1296
+Iran Khodro Company	1297
+Iranian Parliament	1298
+Iraq	1299
+Iraqi Communist Party	1300
+Iraqi Islamic Party	1301
+Ireland	1302
+Isaac Kiprono Ruto	1303
+Isaias Afewerki	1304
+Isao Iijima	1305
+Isatou Njie-Saidy	1306
+Ishaq Dar	1307
+Islam Karimov	1308
+Islamic (Nigeria)	1309
+Islamic (Syria)	1310
+Islamic Extremist Group (Iraq)	1311
+Islamic Extremist Group (Philippines)	1312
+Islamic Militant (Syria)	1313
+Islamic Preacher (Afghanistan)	1314
+Islamic Preacher (Australia)	1315
+Islamic Preacher (Bulgaria)	1316
+Islamic Preacher (India)	1317
+Islamic Preacher (Iran)	1318
+Islamic Rebel (Philippines)	1319
+Islamic Rebel (Syria)	1320
+Islamic Rebirth Party	1321
+Israeli Defense Forces	1322
+Iurie Leanca	1323
+Ivan Gasparovic	1324
+Jaber Mubarak Al-Sabah	1325
+Jack Straw	1326
+Jackson Mandago	1327
+Jagir Singh	1328
+Jakaya Mrisho Kikwete	1329
+James Wani Igga	1330
+Janardan Dwivedi	1331
+Jane Marriott	1332
+Janez Jansa	1333
+Japan	1334
+Japan Restoration Party	1335
+Japan Self-Defense Forces	1336
+Jaques Wagner	1337
+Jaroslaw Kaczynski	1338
+Jason C. Hu	1339
+Jason Kenney	1340
+Javed Iqbal	1341
+Javier Gonzalez Fraga	1342
+Jawad al-Bulani	1343
+Jean-Michel Baylet	1344
+Jean-Yves Le Drian	1345
+Jean Qahwaji	1346
+Jeffrey Fowle	1347
+Jens Stoltenberg	1348
+Jens Weidmann	1349
+Jew (Israel)	1350
+Jitan Ram Manjhi	1351
+Joachim Gauck	1352
+Joan Burton	1353
+Joanne Liu	1354
+Joao Lourenco	1355
+Jobbik	1356
+Joe Natuman	1357
+Joe Oliver	1358
+John Baird	1359
+John Boehner	1360
+John Brennan	1361
+John Campbell	1362
+John Dramani Mahama	1363
+John Kerry	1364
+John Momis	1365
+John Odigie-Oyegun	1366
+John Paul II	1367
+John Robertson	1368
+John Sopko	1369
+John Tefft	1370
+Joint Chiefs of Staff (Vietnam)	1371
+Jonah David Jang	1372
+Jonathan Greenert	1373
+Jonathan Moyo	1374
+Jonathan Vatsa	1375
+Jose Mario Vaz	1376
+Joseph Kabila	1377
+Joseph Katema	1378
+Joseph Kony	1379
+Joseph Ole Lenku	1380
+Joseph Ole Nkaissery	1381
+Joseph Robinette Biden	1382
+Joseph Stalin	1383
+Josh Earnest	1384
+Joshua Wong	1385
+José Miguel Insulza	1386
+José Miguel Ortiz	1387
+José Miguel Vivanco	1388
+Juan Carlos Mendoza	1389
+Juan Carlos Pinzon	1390
+Juan Fernando Cristo	1391
+Juan del Granado	1392
+Jubo League	1393
+Julia Gillard	1394
+Julian Paul Assange	1395
+Julie Bishop	1396
+Julien Paluku Kahongya	1397
+Julio Cobos	1398
+Julio Velarde	1399
+Julius Malema	1400
+Junaid Thorne	1401
+Juozas Bernatonis	1402
+Justice Department/Ministery (Czech Republic)	1403
+Justice Department/Ministery (Democratic Republic of Congo)	1404
+Justice Department/Ministery (Lithuania)	1405
+Justice Department/Ministery (Philippines)	1406
+Justice Department/Ministery (Portugal)	1407
+Justice Department/Ministery (Romania)	1408
+Justice Department/Ministery (Thailand)	1409
+Justice and Development Party	1410
+Justice and Equality Movement	1411
+Justicialist Party	1412
+Justin Trudeau	1413
+Jusuf Kalla	1414
+Jyrki Katainen	1415
+Kader Arif	1416
+Kahinda Otafiire	1417
+Kakar Tribe	1418
+Kamalesh Sharma	1419
+Kamla Persad-Bissessar	1420
+Kano Emirate	1421
+Kapil Sibal	1422
+Kaptan Singh Solanki	1423
+Karin Enström	1424
+Karl Erjavec	1425
+Kashim Shettima	1426
+Kashmiri Separatist	1427
+Kathleen Stephens	1428
+Kathleen Wynne	1429
+Kathy Gannon	1430
+Kayode Fayemi	1431
+Kazakhstan	1432
+Kazumi Matsui	1433
+Keiji Furuya	1434
+Kema Chikwe	1435
+Kembo Dugish Campbell Mohadi	1436
+Kenneth Roth	1437
+Keshari Nath Tripathi	1438
+Kevin Rudd	1439
+Khaled Bahah	1440
+Khaled al-Obeidi	1441
+Khalid bin Ali Al Khalifa	1442
+Kidnapper (Libya)	1443
+Kikuyu	1444
+Kim Daejung	1445
+Kim Hwang Sik	1446
+Kim Jong-Un	1447
+Kim Yong Il	1448
+Kimani Wamatangi	1449
+King Pu-tsung	1450
+Kittiratt Na-Ranong	1451
+Klaus Johannis	1452
+Kofi Annan	1453
+Kulbir Singh	1454
+Kundy Pahiama	1455
+Kuol Manyang Juuk	1456
+Kuomintang	1457
+Kuwait	1458
+Kyriakos Gerontopoulos	1459
+Kyung-wha Kang	1460
+Labaran Maku	1461
+Labor Party (United Kingdom)	1462
+Labor Union (Bangladesh)	1463
+Labor Union (Bulgaria)	1464
+Labor Union (Canada)	1465
+Labor Union (Croatia)	1466
+Labor Union (India)	1467
+Labor Union (Nigeria)	1468
+Labor Union (Philippines)	1469
+Labor and Employment Ministry (Bahrain)	1470
+Labor and Employment Ministry (Botswana)	1471
+Labor and Employment Ministry (Colombia)	1472
+Labor and Employment Ministry (Mongolia)	1473
+Labor and Employment Ministry (Nigeria)	1474
+Lal Krishna Advani	1475
+Lameck Mangani	1476
+Lamure Latour	1477
+Laos	1478
+Lapo Pistelli	1479
+Lateef Fagbemi	1480
+Laura Boldrini	1481
+Lawmaker (Argentina)	1482
+Lawmaker (Central African Republic)	1483
+Lawmaker (Costa Rica)	1484
+Lawmaker (Hong Kong)	1485
+Lawmaker (Iraq)	1486
+Lawmaker (Jamaica)	1487
+Lawmaker (Japan)	1488
+Lawmaker (Latvia)	1489
+Lawmaker (Lebanon)	1490
+Lawmaker (Namibia)	1491
+Lawmaker (Russia)	1492
+Lawmaker (Serbia)	1493
+Lawmaker (South Korea)	1494
+Lawmaker (Turkey)	1495
+Lawmaker (Ukraine)	1496
+Lawmaker (United Kingdom)	1497
+Lawmaker (United States)	1498
+Lawmaker (Zambia)	1499
+Lawmaker (Zimbabwe)	1500
+Lawrence Springborg	1501
+Lawyer/Attorney (Argentina)	1502
+Lawyer/Attorney (Australia)	1503
+Lawyer/Attorney (Belgium)	1504
+Lawyer/Attorney (Benin)	1505
+Lawyer/Attorney (Cambodia)	1506
+Lawyer/Attorney (Colombia)	1507
+Lawyer/Attorney (Costa Rica)	1508
+Lawyer/Attorney (Czech Republic)	1509
+Lawyer/Attorney (Denmark)	1510
+Lawyer/Attorney (Egypt)	1511
+Lawyer/Attorney (Germany)	1512
+Lawyer/Attorney (Guatemala)	1513
+Lawyer/Attorney (Indonesia)	1514
+Lawyer/Attorney (Jamaica)	1515
+Lawyer/Attorney (Jordan)	1516
+Lawyer/Attorney (Kenya)	1517
+Lawyer/Attorney (Liberia)	1518
+Lawyer/Attorney (Libya)	1519
+Lawyer/Attorney (Luxembourg)	1520
+Lawyer/Attorney (Malaysia)	1521
+Lawyer/Attorney (Nauru)	1522
+Lawyer/Attorney (Peru)	1523
+Lawyer/Attorney (Philippines)	1524
+Lawyer/Attorney (Romania)	1525
+Lawyer/Attorney (South Korea)	1526
+Lawyer/Attorney (Turkey)	1527
+Lawyer/Attorney (Uganda)	1528
+Lawyer/Attorney (United Kingdom)	1529
+Lawyer/Attorney (United States)	1530
+Lawyer/Attorney (Zambia)	1531
+Le Hong Anh	1532
+Le Luong Minh	1533
+Lee Myung Bak	1534
+Legislature (Argentina)	1535
+Legislature (Bangladesh)	1536
+Legislature (Bosnia and Herzegovina)	1537
+Legislature (China)	1538
+Legislature (Cook Islands)	1539
+Legislature (Greece)	1540
+Legislature (Guyana)	1541
+Legislature (Iraq)	1542
+Legislature (Israel)	1543
+Legislature (Jamaica)	1544
+Legislature (Lebanon)	1545
+Legislature (Libya)	1546
+Legislature (Mongolia)	1547
+Legislature (Pakistan)	1548
+Legislature (Romania)	1549
+Legislature (Russia)	1550
+Legislature (Senegal)	1551
+Legislature (Serbia)	1552
+Legislature (South Africa)	1553
+Legislature (South Korea)	1554
+Legislature (Sweden)	1555
+Legislature (Syria)	1556
+Legislature (Turkey)	1557
+Legislature (Vanuatu)	1558
+Len Brown	1559
+Leon Panetta	1560
+Leopoldo López	1561
+Leslie Caldwell	1562
+Lesotho	1563
+Liberal Democratic Party (Romania)	1564
+Liberal National Party	1565
+Liberal Party (Moldova)	1566
+Liberals (Canada)	1567
+Liberals (Egypt)	1568
+Lien Chan	1569
+Likud	1570
+Lilian Samaniego	1571
+Limpopo Police	1572
+Lin Chia-lung	1573
+Lithuanian Armed Forces	1574
+Liu Jianchao	1575
+Liu Jieyi	1576
+Liu Yandong	1577
+Liu Zhenmin	1578
+Liyel Imoke	1579
+Lloyd Austin	1580
+Local Media (Argentina)	1581
+Local Media (Ukraine)	1582
+Loren Legarda	1583
+Louise Mushikiwabo	1584
+Lower House of Parliament (Afghanistan)	1585
+Luis Alberto Lacalle	1586
+Luiz Inacio Lula Da Silva	1587
+Lulzim Basha	1588
+Lungelo Dlamini	1589
+Lyutvi Mestan	1590
+M.R. Sharma	1591
+Ma Xiaoguang	1592
+Ma Ying Jeou	1593
+Macky Sall	1594
+Madagascar	1595
+Madeleine Albright	1596
+Mahamadou Issoufou	1597
+Mahinda Rajapaksa	1598
+Mahmoud Ahmadinejad	1599
+Mahmoud Ali Othman	1600
+Main Opposition (Bahrain)	1601
+Main Opposition (Greece)	1602
+Main Opposition (Israel)	1603
+Main Opposition (Jordan)	1604
+Main Opposition (Sri Lanka)	1605
+Main Opposition (Turkey)	1606
+Main Opposition (United Kingdom)	1607
+Mainland Affairs Council	1608
+Maithripala Sirisena	1609
+Maja Kocijancic	1610
+Majid Takht Ravanchi	1611
+Majid bin Muhammad al Majid	1612
+Malala Yousafzai	1613
+Malawi	1614
+Malawi Electoral Commission	1615
+Malaysia	1616
+Malcolm Bligh Turnbull	1617
+Maldives	1618
+Malik Agar	1619
+Mallam Isa Yuguda	1620
+Malta	1621
+Mamadou Ndala	1622
+Mamnoon Hussain	1623
+Manish Sisodia	1624
+Mano	1625
+Manohar Lal Khattar	1626
+Manuel Garrido	1627
+Manuel Monteiro de Castro	1628
+Manuel Nunes Júnior	1629
+Marian Harkin	1630
+Marilyn Ogar	1631
+Marine Corp (China)	1632
+Marine Corp (Russia)	1633
+Marine Corp (Taiwan)	1634
+Mario Mauro	1635
+Mark Simmonds	1636
+Martin Indyk	1637
+Martin Lidegaard	1638
+Martin McGuinness	1639
+Martin Stropnický	1640
+Martin Wambora	1641
+Marwan Charbel	1642
+Mary Robinson	1643
+Marziyeh Afkham	1644
+María Ángela Holguín	1645
+Massoud Barzani	1646
+Mathias Meinrad Chikawe	1647
+Maurice Williamson	1648
+Mauricio Domogan	1649
+Mauritania	1650
+Mauritius	1651
+Maxon Mbendera	1652
+Maxwell Gicheru	1653
+Mayotte	1654
+Mazda	1655
+Mbhazima Samuel Shilowa	1656
+Medha Patkar	1657
+Media (Africa)	1658
+Media (Azerbaijan)	1659
+Media (Bolivia)	1660
+Media (China)	1661
+Media (India)	1662
+Media (Japan)	1663
+Media (Kenya)	1664
+Media (Latvia)	1665
+Media (Lebanon)	1666
+Media (Nigeria)	1667
+Media (Pakistan)	1668
+Media (Palestinian Territory, Occupied)	1669
+Media (Philippines)	1670
+Media (Russia)	1671
+Media (Saudi Arabia)	1672
+Media (South Africa)	1673
+Media (Spain)	1674
+Media (Thailand)	1675
+Media (United States)	1676
+Media Personnel (Africa)	1677
+Media Personnel (Argentina)	1678
+Media Personnel (Australia)	1679
+Media Personnel (Bulgaria)	1680
+Media Personnel (China)	1681
+Media Personnel (France)	1682
+Media Personnel (Greece)	1683
+Media Personnel (International)	1684
+Media Personnel (Iran)	1685
+Media Personnel (Japan)	1686
+Media Personnel (Lebanon)	1687
+Media Personnel (Maldives)	1688
+Media Personnel (Myanmar)	1689
+Media Personnel (New Zealand)	1690
+Media Personnel (Niger)	1691
+Media Personnel (Pakistan)	1692
+Media Personnel (Poland)	1693
+Media Personnel (Saudi Arabia)	1694
+Media Personnel (Somalia)	1695
+Media Personnel (Syria)	1696
+Media Personnel (Thailand)	1697
+Media Personnel (United States)	1698
+Media Personnel (Zimbabwe)	1699
+Media Rights Group (Qatar)	1700
+Medical Association (Malaysia)	1701
+Medical Association (Nigeria)	1702
+Medical Personnel (Australia)	1703
+Medical Personnel (Canada)	1704
+Medical Personnel (Guinea-Bissau)	1705
+Medical Personnel (India)	1706
+Medical Personnel (Nigeria)	1707
+Medical Personnel (Philippines)	1708
+Medical Personnel (Taiwan)	1709
+Meglena Kuneva	1710
+Mehmet Simsek	1711
+Mehr News Agency	1712
+Meira Kumar	1713
+Mekong River Commission	1714
+Member of Legislative (Govt) (Afghanistan)	1715
+Member of Legislative (Govt) (Azerbaijan)	1716
+Member of Legislative (Govt) (India)	1717
+Member of Legislative (Govt) (Iran)	1718
+Member of Legislative (Govt) (Italy)	1719
+Member of Legislative (Govt) (Kenya)	1720
+Member of Legislative (Govt) (Lebanon)	1721
+Member of Legislative (Govt) (Myanmar)	1722
+Member of Legislative (Govt) (Nigeria)	1723
+Member of Legislative (Govt) (Palestinian Territory, Occupied)	1724
+Member of Legislative (Govt) (Romania)	1725
+Member of Legislative (Govt) (Slovenia)	1726
+Member of Legislative (Govt) (South Korea)	1727
+Member of Legislative (Govt) (Sweden)	1728
+Member of Legislative (Govt) (Turkmenistan)	1729
+Member of Parliament (Australia)	1730
+Member of Parliament (Bangladesh)	1731
+Member of Parliament (Germany)	1732
+Member of Parliament (India)	1733
+Member of Parliament (Iran)	1734
+Member of Parliament (Iraq)	1735
+Member of Parliament (Nigeria)	1736
+Member of Parliament (Philippines)	1737
+Member of Parliament (Romania)	1738
+Member of Parliament (Russia)	1739
+Member of Parliament (Sweden)	1740
+Member of Parliament (Thailand)	1741
+Member of Parliament (Ukraine)	1742
+Member of the Judiciary (Afghanistan)	1743
+Member of the Judiciary (Bangladesh)	1744
+Member of the Judiciary (Brazil)	1745
+Member of the Judiciary (Iran)	1746
+Member of the Judiciary (Libya)	1747
+Member of the Judiciary (Namibia)	1748
+Member of the Judiciary (Nigeria)	1749
+Member of the Judiciary (North Korea)	1750
+Member of the Judiciary (South Africa)	1751
+Member of the Judiciary (South Korea)	1752
+Member of the Judiciary (Sri Lanka)	1753
+Member of the Judiciary (Swaziland)	1754
+Member of the Judiciary (Tanzania)	1755
+Member of the Judiciary (Turkey)	1756
+Member of the Judiciary (United Arab Emirates)	1757
+Member of the Judiciary (United Kingdom)	1758
+Member of the Judiciary (United States)	1759
+Men (Argentina)	1760
+Men (Cambodia)	1761
+Men (France)	1762
+Men (India)	1763
+Men (Indonesia)	1764
+Men (Japan)	1765
+Men (Jordan)	1766
+Men (Kenya)	1767
+Men (Lebanon)	1768
+Men (Malaysia)	1769
+Men (Mexico)	1770
+Men (Namibia)	1771
+Men (New Zealand)	1772
+Men (Philippines)	1773
+Men (Russia)	1774
+Men (Singapore)	1775
+Men (South Africa)	1776
+Men (South Asia)	1777
+Men (Swaziland)	1778
+Men (Syria)	1779
+Men (Tajikistan)	1780
+Men (United Arab Emirates)	1781
+Men (United Kingdom)	1782
+Men (United States)	1783
+Men (Yemen)	1784
+Meng Jianzhu	1785
+Meretz	1786
+Messiria	1787
+Mevlut Cavusoglu	1788
+Mexico	1789
+Michael Andrew Gove	1790
+Michael D. Higgins	1791
+Michael Noonan	1792
+Michael Sata	1793
+Michel Sapin	1794
+Micky Rosenfeld	1795
+Middle East	1796
+Miguel Galván Gutiérrez	1797
+Miguel Macedo	1798
+Miguel Ángel Osorio Chong	1799
+Miguel Ángel Rodríguez	1800
+Mike Simpson	1801
+Mikhail Margelov	1802
+Mikhail Yefimovich Fradkov	1803
+Milan Knazko	1804
+Militant (Al Qaeda in the Arabian Peninsula)	1805
+Militant (Australia)	1806
+Militant (Bangladesh)	1807
+Militant (Boko Haram)	1808
+Militant (ETA)	1809
+Militant (International)	1810
+Militant (Iraq)	1811
+Militant (Libya)	1812
+Militant (Mali)	1813
+Militant (Nigeria)	1814
+Militant (Philippines)	1815
+Militant (Rally of the Republicans)	1816
+Militant (Somalia)	1817
+Militant (Syria)	1818
+Militant (Taliban)	1819
+Militant (Turkey)	1820
+Militant (Ukraine)	1821
+Militant (Yemen)	1822
+Military (Argentina)	1823
+Military (Brazil)	1824
+Military (Cambodia)	1825
+Military (Central African Republic)	1826
+Military (Chad)	1827
+Military (China)	1828
+Military (Cote d'Ivoire)	1829
+Military (Cyprus)	1830
+Military (El Salvador)	1831
+Military (France)	1832
+Military (Guatemala)	1833
+Military (Hong Kong)	1834
+Military (Jordan)	1835
+Military (Lebanon)	1836
+Military (Mali)	1837
+Military (Mexico)	1838
+Military (Middle East)	1839
+Military (Mongolia)	1840
+Military (Mozambique)	1841
+Military (Myanmar)	1842
+Military (North Korea)	1843
+Military (Papua New Guinea)	1844
+Military (Paraguay)	1845
+Military (Philippines)	1846
+Military (Russia)	1847
+Military (Senegal)	1848
+Military (Singapore)	1849
+Military (South Sudan)	1850
+Military (Taiwan)	1851
+Military (Thailand)	1852
+Military (Turkey)	1853
+Military (United Kingdom)	1854
+Military (Vietnam)	1855
+Military Advisor (United States)	1856
+Military Intelligence (Sudan)	1857
+Military Judge (Jordan)	1858
+Military Personnel (Afghanistan)	1859
+Military Personnel (Angola)	1860
+Military Personnel (Argentina)	1861
+Military Personnel (Azerbaijan)	1862
+Military Personnel (Bangladesh)	1863
+Military Personnel (Burkina Faso)	1864
+Military Personnel (Cameroon)	1865
+Military Personnel (Germany)	1866
+Military Personnel (India)	1867
+Military Personnel (Kenya)	1868
+Military Personnel (Lebanon)	1869
+Military Personnel (Liberia)	1870
+Military Personnel (Libya)	1871
+Military Personnel (Mali)	1872
+Military Personnel (Morocco)	1873
+Military Personnel (Nigeria)	1874
+Military Personnel (Philippines)	1875
+Military Personnel (Somalia)	1876
+Military Personnel (South Korea)	1877
+Military Personnel (Taiwan)	1878
+Military Personnel (Thailand)	1879
+Military Personnel (Uganda)	1880
+Military Personnel (United States)	1881
+Military Personnel (Vietnam)	1882
+Military Personnel (Yemen)	1883
+Military Personnel - Special (Afghanistan)	1884
+Military Personnel - Special (Brazil)	1885
+Military Personnel - Special (Cameroon)	1886
+Military Personnel - Special (Central African Republic)	1887
+Military Personnel - Special (India)	1888
+Military Personnel - Special (Kenya)	1889
+Military Personnel - Special (Mexico)	1890
+Military Personnel - Special (Myanmar)	1891
+Military Personnel - Special (Nigeria)	1892
+Military Personnel - Special (Philippines)	1893
+Military Personnel - Special (Sierra Leone)	1894
+Military Personnel - Special (Sri Lanka)	1895
+Military Personnel - Special (Thailand)	1896
+Military Personnel - Special (Tunisia)	1897
+Military Personnel - Special (United States)	1898
+Military Police (Cambodia)	1899
+Military Police (Japan)	1900
+Militia (Crimea)	1901
+Militia (Iraq)	1902
+Militia (Kenya)	1903
+Militia (Syria)	1904
+Militia (Syrian Kurds)	1905
+Milo Djukanovic	1906
+Milos Zeman	1907
+Milton Serima	1908
+Minister Patnaik	1909
+Ministry (Afghanistan)	1910
+Ministry (Angola)	1911
+Ministry (Belgium)	1912
+Ministry (Central African Republic)	1913
+Ministry (Coalition of the Radical Left)	1914
+Ministry (Croatia)	1915
+Ministry (Czech Republic)	1916
+Ministry (Egypt)	1917
+Ministry (France)	1918
+Ministry (Guyana)	1919
+Ministry (Indian Administered Kashmir)	1920
+Ministry (Iran)	1921
+Ministry (Iraqi Kurds)	1922
+Ministry (Ireland)	1923
+Ministry (Jordan)	1924
+Ministry (Kuwait)	1925
+Ministry (Liberia)	1926
+Ministry (Mainland Affairs Council)	1927
+Ministry (Malaysia)	1928
+Ministry (Morocco)	1929
+Ministry (Nigeria)	1930
+Ministry (Philippines)	1931
+Ministry (Poland)	1932
+Ministry (Romania)	1933
+Ministry (Russia)	1934
+Ministry (Singapore)	1935
+Ministry (South Africa)	1936
+Ministry (South Korea)	1937
+Ministry (Sri Lanka)	1938
+Ministry (Sudan)	1939
+Ministry (Tanzania)	1940
+Ministry (Thailand)	1941
+Ministry (Togo)	1942
+Ministry (Turkey)	1943
+Ministry (Venezuela)	1944
+Ministry (Vietnam)	1945
+Ministry (Zimbabwe)	1946
+Ministry of Public Security (China)	1947
+Ministry of Tourism (Angola)	1948
+Ministry of Tourism (India)	1949
+Ministry of Women (Afghanistan)	1950
+Minni Minnawi	1951
+Mirhoseyn Musavi	1952
+Miro Cerar	1953
+Miroslav Lajcak	1954
+Mitiku Kasa	1955
+Mitsubishi	1956
+Moana Carcasses Kalosil	1957
+Mob (Israel)	1958
+Mob (Kenya)	1959
+Mob (Sierra Leone)	1960
+Mob (Sri Lanka)	1961
+Mogho Naba	1962
+Mohamad Hanif Atmar	1963
+Mohamed Ibn Chambas	1964
+Mohamed Ould Abdel Aziz	1965
+Mohamed Said Fofana	1966
+Mohamed Samir	1967
+Mohamed al-Dairi	1968
+Mohammad Ali Jafari	1969
+Mohammad Javad Zarif	1970
+Mohammad Mohaqiq	1971
+Mohammad Nahavandian	1972
+Mohammad Pakpur	1973
+Mohammad Reza Naqdi	1974
+Mohammed Mubarak Muntaka	1975
+Mohammed Qasim Fahim	1976
+Monastery (Algeria)	1977
+Monastery (Thailand)	1978
+Morgan Tsvangirai	1979
+Moro Islamic Liberation Front	1980
+Moro National Liberation Front	1981
+Morocco	1982
+Morteza Sarmadi	1983
+Motol University Hospital	1984
+Mouloud Hamrouche	1985
+Movement for the Survival of the Ogoni People	1986
+Muhammadu Buhari	1987
+Mukhtar Ramalan Yero	1988
+Mulatu Teshome	1989
+Mulikat Akande-Adeola	1990
+Municipal Court (Thailand)	1991
+Murderer (South Africa)	1992
+Murderer (Syria)	1993
+Murderer (Ukraine)	1994
+Murtala Nyako	1995
+Musa Cerantonio	1996
+Musa Yego	1997
+Muslim (Myanmar)	1998
+Muslim (Nigeria)	1999
+Muslim (Singapore)	2000
+Muslim (Sudan)	2001
+Muslim (United Kingdom)	2002
+Muslim (United States)	2003
+Muslim Cleric (China)	2004
+Muslim Militant (Philippines)	2005
+Muslim Rights Concern	2006
+Mustafa Dzhemilev	2007
+Mustapha Akanbi	2008
+Mwai Kibaki	2009
+Myanmar	2010
+Nabih Berri	2011
+Naglaa el-Ahwani	2012
+Naglis Puteikis	2013
+Najam Sethi	2014
+Nangolo Mbumba	2015
+Nasser Judeh	2016
+Natalya Timakova	2017
+Natascha Maria Kampusch	2018
+Nathalie Kosciusko-Morizet	2019
+Nathan Cirillo	2020
+Nathif Jama	2021
+National Alliance (Iraq)	2022
+National Alliance (Kenya)	2023
+National Anti-Corruption Commission (Thailand)	2024
+National Assembly of Kuwait	2025
+National Border Service	2026
+National Coalition Party	2027
+National Coalition for Syrian Revolutionary and Opposition Forces	2028
+National Council for Peace and Order of Thailand	2029
+National Directorate of Security	2030
+National Front Malaysia	2031
+National Health and Family Planning Commission	2032
+National Intelligence Bureau (Pakistan)	2033
+National Iranian Petrochemical Company	2034
+National Liberal Party	2035
+National Liberal Party (Romania)	2036
+National Liberation Army	2037
+National Police Service	2038
+National Resistance Movement	2039
+National Security Advisor (Georgia)	2040
+National Security Advisor (South Korea)	2041
+National Security Advisor (Thailand)	2042
+National Security Advisor (United Kingdom)	2043
+National Social Security Authority	2044
+National Transitional Council	2045
+National Union Party (Kenya)	2046
+National Union Party (Romania)	2047
+National United Front for Democracy Against Dictatorship	2048
+National Unity Democratic Organisation	2049
+Nationalist Movement Party	2050
+Naval (Bangladesh)	2051
+Naval (Romania)	2052
+Naval (Sri Lanka)	2053
+Naval (Thailand)	2054
+Naval (Ukraine)	2055
+Naval (United Kingdom)	2056
+Naval (United States)	2057
+Naval Base (Philippines)	2058
+Navy Personnel (India)	2059
+Naxali	2060
+Nazrul Islam	2061
+Neri Geller	2062
+Nestor Shufrych	2063
+New Azerbaijan Party	2064
+New Democracy	2065
+New Way Movement	2066
+New Zealand	2067
+News Editor (China)	2068
+News Editor (Nigeria)	2069
+News Editor (Sudan)	2070
+News Editor (United Kingdom)	2071
+News Editor (United States)	2072
+Newspaper (Japan)	2073
+Newspaper (Senegal)	2074
+Ng Eng Hen	2075
+Nguyen Phu Trong	2076
+Nguyen Xuan Phuc	2077
+Nicola Sturgeon	2078
+Nicos Anastasiades	2079
+Niger	2080
+Niger Delta Development Commission	2081
+Nigerian Bar Association	2082
+Nigerian Communication Satellite	2083
+Nigerian Governors Forum	2084
+Nigerian National Petroleum Corporation	2085
+Nigerian Navy	2086
+Nigerian Television Authority	2087
+Niko Peleshi	2088
+Nikolay Nenchev	2089
+Nikos Christodoulides	2090
+Nir Barkat	2091
+Nonaligned Movement	2092
+Nonofo Molefhi	2093
+Noppadon Pattama	2094
+Nordic Council	2095
+North America	2096
+North Atlantic Treaty Organization	2097
+North Korea	2098
+Northern Ireland	2099
+Nuon Chea	2100
+Nur Ahmad Nikbakht	2101
+Nur Hossain	2102
+Nuri al-Maliki	2103
+Nurse (India)	2104
+Nurse (Kenya)	2105
+Nurse (Nigeria)	2106
+Office of the Attorney General	2107
+Office of the United Nations High Commissioner for Human Rights	2108
+Ogaden National Liberation Front	2109
+Ogbeni Rauf Aregbesola	2110
+Okada Katsuya	2111
+Okoth Obado	2112
+Olajide Laleye	2113
+Olga Golodets	2114
+Olisa Agbakoba	2115
+Olugbenga Ashiru	2116
+Olusegun Agbaje	2117
+Oluṣẹgun Ọbasanjọ	2118
+Oman	2119
+Omar Abdullah	2120
+Ombudsman (Australia)	2121
+Ombudsman (Kyrgyzstan)	2122
+Ona	2123
+Ondrej Liska	2124
+Oommen Chandy	2125
+Opposition Activist (Bahrain)	2126
+Opposition Activist (Bangladesh)	2127
+Opposition Activist (Ukraine)	2128
+Opposition Coalition (Sudan)	2129
+Opposition Force (Syria)	2130
+Opposition Supporter (India)	2131
+Opposition Supporter (Pakistan)	2132
+Opposition Supporter (Turkey)	2133
+Opposition Supporter (Venezuela)	2134
+Organisation of Islamic Cooperation	2135
+Organization of Petroleum Exporting Countries	2136
+Other Authorities / Officials (Armenia)	2137
+Other Authorities / Officials (Bahrain)	2138
+Other Authorities / Officials (Brazil)	2139
+Other Authorities / Officials (China)	2140
+Other Authorities / Officials (Democratic Republic of Congo)	2141
+Other Authorities / Officials (Egypt)	2142
+Other Authorities / Officials (Ethiopia)	2143
+Other Authorities / Officials (Gambia)	2144
+Other Authorities / Officials (Greece)	2145
+Other Authorities / Officials (Guatemala)	2146
+Other Authorities / Officials (Hong Kong)	2147
+Other Authorities / Officials (Jordan)	2148
+Other Authorities / Officials (Lebanon)	2149
+Other Authorities / Officials (Liberia)	2150
+Other Authorities / Officials (Libya)	2151
+Other Authorities / Officials (Mali)	2152
+Other Authorities / Officials (Mauritania)	2153
+Other Authorities / Officials (Mexico)	2154
+Other Authorities / Officials (Nigeria)	2155
+Other Authorities / Officials (Philippines)	2156
+Other Authorities / Officials (Romania)	2157
+Other Authorities / Officials (Russia)	2158
+Other Authorities / Officials (Somalia)	2159
+Other Authorities / Officials (South Africa)	2160
+Other Authorities / Officials (Switzerland)	2161
+Other Authorities / Officials (Turkey)	2162
+Other Authorities / Officials (United States)	2163
+Other Authorities / Officials (Venezuela)	2164
+Other Authorities / Officials (Vietnam)	2165
+Other Authorities / Officials (Zimbabwe)	2166
+Overseas Development Institute	2167
+Oversight Court (Bulgaria)	2168
+Oversight Court (North Korea)	2169
+Oversight Court (South Korea)	2170
+PTT Public Company Limited	2171
+Pakistan People's Party	2172
+Pakistan Tehreek-e-Insaf	2173
+Pakistan administered Kashmir	2174
+Panfilio Lacson	2175
+Panhellenic Socialist Movement	2176
+Paolo Gentiloni	2177
+Paraguay	2178
+Paris Club	2179
+Park Won-soon	2180
+Party Member (Afghanistan)	2181
+Party Member (Azerbaijan)	2182
+Party Member (Bangladesh)	2183
+Party Member (Bolivia)	2184
+Party Member (Canada)	2185
+Party Member (Colombia)	2186
+Party Member (Croatia)	2187
+Party Member (Czech Republic)	2188
+Party Member (Gambia)	2189
+Party Member (Iran)	2190
+Party Member (Iraq)	2191
+Party Member (Ireland)	2192
+Party Member (Japan)	2193
+Party Member (Latvia)	2194
+Party Member (Malawi)	2195
+Party Member (North Korea)	2196
+Party Member (Slovakia)	2197
+Party Member (Taiwan)	2198
+Party Member (Thailand)	2199
+Party Member (Turkey)	2200
+Party Member (United Kingdom)	2201
+Party Member (Yemen)	2202
+Party Member (Zambia)	2203
+Party President (Bharatiya Janata)	2204
+Party President (Congress Party)	2205
+Party President (Cyprus)	2206
+Party President (Greece)	2207
+Party President (Romania)	2208
+Party President (Samajwadi Janata Party)	2209
+Party President (Turkey)	2210
+Party of Free Life of Kurdistan	2211
+Party of National Unity	2212
+Party of Regions	2213
+Pascal Simbikangwa	2214
+Passenger Jet (Iran)	2215
+Passenger Jet (Maldives)	2216
+Pasuya Yao	2217
+Patience Jonathan	2218
+Patricia de Lille	2219
+Paul Kagame	2220
+Paulo Antonio Skaf	2221
+Pavel Belobradek	2222
+Pavel Zeman	2223
+Pavlo Klimkin	2224
+Pavlo Sheremeta	2225
+Pdea	2226
+Peace, Unity, and Development Party	2227
+Peace Action	2228
+Peacekeeping Troop (Africa)	2229
+Peacekeeping Troop (Sudan)	2230
+Pedro Manuel Mamede Passos Coelho	2231
+People's Democratic Party (Egypt)	2232
+People Associated with the Opposition (Albania)	2233
+People Associated with the Opposition (Argentina)	2234
+People Associated with the Opposition (Australia)	2235
+People Associated with the Opposition (China)	2236
+People Associated with the Opposition (Croatian Democratic Union)	2237
+People Associated with the Opposition (France)	2238
+People Associated with the Opposition (Mauritania)	2239
+People Associated with the Opposition (Seimas of the Lithuanian Republic)	2240
+People Associated with the Opposition (Sri Lanka)	2241
+People Associated with the Opposition (Sweden)	2242
+People Associated with the Opposition (Turkey)	2243
+People Associated with the Opposition (Ukraine)	2244
+People First Party Taiwan	2245
+Pervez Musharraf	2246
+Peter Foster	2247
+Peter Greste	2248
+Peter Lerner	2249
+Peter O'Neill	2250
+Peter Phillips	2251
+Peter Szijjarto	2252
+Petrochina	2253
+Petroleum of Venezuela	2254
+Pham Binh Minh	2255
+Philip Barton	2256
+Philip Goldberg	2257
+Philip Hammond	2258
+Philippe Couillard	2259
+Philippines	2260
+Phongthep Thepkanjana	2261
+Phung Quang Thanh	2262
+Pier Ferdinando Casini	2263
+Pierre Korkie	2264
+Pierre Nkurunziza	2265
+Pietro Parolin	2266
+Pilgrim (India)	2267
+Planning Commission (India)	2268
+Planning Commission (Nigeria)	2269
+Pogu Bitrus	2270
+Pokot	2271
+Poland	2272
+Police (Albania)	2273
+Police (Australia)	2274
+Police (Austria)	2275
+Police (Belgium)	2276
+Police (Benin)	2277
+Police (Bosnia and Herzegovina)	2278
+Police (Bulgaria)	2279
+Police (Cambodia)	2280
+Police (Canada)	2281
+Police (Congo)	2282
+Police (Costa Rica)	2283
+Police (Cote d'Ivoire)	2284
+Police (Croatia)	2285
+Police (Dominican Republic)	2286
+Police (Egypt)	2287
+Police (El Salvador)	2288
+Police (Ethiopia)	2289
+Police (Gambia)	2290
+Police (Greece)	2291
+Police (Guinea)	2292
+Police (Hong Kong)	2293
+Police (Indonesia)	2294
+Police (Israel)	2295
+Police (Jamaica)	2296
+Police (Japan)	2297
+Police (Jordan)	2298
+Police (Kenya)	2299
+Police (Kosovo)	2300
+Police (Kyrgyzstan)	2301
+Police (Libya)	2302
+Police (Luxembourg)	2303
+Police (Macedonia)	2304
+Police (Malawi)	2305
+Police (Malaysia)	2306
+Police (Mauritius)	2307
+Police (Mozambique)	2308
+Police (Namibia)	2309
+Police (New Zealand)	2310
+Police (Paraguay)	2311
+Police (Peru)	2312
+Police (Philippines)	2313
+Police (Poland)	2314
+Police (Rwanda)	2315
+Police (Saudi Arabia)	2316
+Police (Sierra Leone)	2317
+Police (South Africa)	2318
+Police (South Korea)	2319
+Police (South Sudan)	2320
+Police (Sudan)	2321
+Police (Swaziland)	2322
+Police (Sweden)	2323
+Police (Syria)	2324
+Police (Tanzania)	2325
+Police (Tonga)	2326
+Police (Uganda)	2327
+Police (Ukraine)	2328
+Police (United States)	2329
+Police (Yemen)	2330
+Political Parties (Brazil)	2331
+Political Parties (Cote d'Ivoire)	2332
+Political Parties (Indonesia)	2333
+Political Parties (Italy)	2334
+Political Parties (Kosovo)	2335
+Political Parties (Lebanon)	2336
+Political Parties (Northern Ireland)	2337
+Political Parties (Yemen)	2338
+Political Parties (Zambia)	2339
+Pope Francis	2340
+Popular Congress	2341
+Population (Angola)	2342
+Population (Colombia)	2343
+Population (Egypt)	2344
+Population (Iraq)	2345
+Population (Syria)	2346
+Portia Simpson Miller	2347
+Portugal	2348
+Prabowo Subianto	2349
+Prayuth Chan-ocha	2350
+Preacher (Australia)	2351
+Preacher (Iran)	2352
+Prem Tinsulanonda	2353
+Preneet Kaur	2354
+President of the Senate (Jordan)	2355
+Presidential Aide (Nigeria)	2356
+Presidential Candidate (Afghanistan)	2357
+Presidential Candidate (Algeria)	2358
+Presidential Candidate (Argentina)	2359
+Presidential Family (Nicaragua)	2360
+Presidential Majority	2361
+Presidential Press Service (China)	2362
+Presidential Press Service (Kazakhstan)	2363
+Presidential Press Service (Nigeria)	2364
+Presidential Press Service (Tajikistan)	2365
+Prime Minister Chaudhry	2366
+Procter & Gamble	2367
+Professor (Afghanistan)	2368
+Professor (Hong Kong)	2369
+Professor (Iran)	2370
+Professor (Lebanon)	2371
+Professor (South Korea)	2372
+Professor (Vietnam)	2373
+Progressive Party (Nigeria)	2374
+Protester (Afghanistan)	2375
+Protester (Algeria)	2376
+Protester (Bosnia and Herzegovina)	2377
+Protester (Cote d'Ivoire)	2378
+Protester (Democratic Republic of Congo)	2379
+Protester (Egypt)	2380
+Protester (Ethiopia)	2381
+Protester (Hong Kong)	2382
+Protester (Indonesia)	2383
+Protester (Kyrgyzstan)	2384
+Protester (Lebanon)	2385
+Protester (Macedonia)	2386
+Protester (Pakistan)	2387
+Protester (Paraguay)	2388
+Protester (Switzerland)	2389
+Protester (Thailand)	2390
+Protester (Turkey)	2391
+Protester (Ukraine)	2392
+Protester (United Kingdom)	2393
+Protester (Vietnam)	2394
+Protester (Yemen)	2395
+Protester (Zambia)	2396
+Provincial Officials (China)	2397
+Public Courts (El Salvador)	2398
+Public Courts (Mauritania)	2399
+Public Courts (Nigeria)	2400
+Public Courts (Pakistan)	2401
+Public Courts (Tanzania)	2402
+Public Prosecutor (Brazil)	2403
+Public Prosecutor (Chile)	2404
+Public Prosecutor (Croatia)	2405
+Public Prosecutor (Greece)	2406
+Public Prosecutor (Guinea)	2407
+Public Prosecutor (Peru)	2408
+Public Prosecutor (Turkey)	2409
+Public Sector (Jordan)	2410
+Public Works (India)	2411
+Qassim Atta	2412
+Qatar	2413
+Qin Gang	2414
+Qotboddin Helal	2415
+Quds Force	2416
+Queen Ranya	2417
+RIA Novosti	2418
+RJR	2419
+Radio France Internationale	2420
+Radoslaw Sikorski	2421
+Radovan Krejcir	2422
+Rafael Correa	2423
+Rafael Ramírez	2424
+Rafiq Hariri	2425
+Raghuram Rajan	2426
+Raheel Sharif	2427
+Raider (Pokot)	2428
+Raj Thackeray	2429
+Raja Bhaiya	2430
+Rajiv Shah	2431
+Rajya Sabha	2432
+Ram Kripal Yadav	2433
+Ram Paswan	2434
+Ramalinga Reddy	2435
+Ramesh Chennithala	2436
+Ramezan Sharif	2437
+Rand Paul	2438
+Randeep Surjewala	2439
+Rapid Action Battalion	2440
+Rashid Derbas	2441
+Rashid Meredov	2442
+Rashtriya Swayamsevak Sangh	2443
+Rasim Ljajic	2444
+Ratan Tata	2445
+Rauf Aregbesola	2446
+Raul Hernandez	2447
+Ravi Shankar Prasad	2448
+Raymond Tshibanda	2449
+Raúl Castro	2450
+Raúl Sendic	2451
+Rebecca Harms	2452
+Rebel Group (Myanmar)	2453
+Rebel Group (Paraguayan People's Army)	2454
+Rebel Group (South Africa)	2455
+Refat Chubarov	2456
+Reform Party (Estonia)	2457
+Refugee (Afghanistan)	2458
+Refugee (Nauru)	2459
+Regulator (Canada)	2460
+Regulator (Indonesia)	2461
+Rehman Malik	2462
+Religion (China)	2463
+Religion (France)	2464
+Religion (Germany)	2465
+Religion (India)	2466
+Religion (Israel)	2467
+Religion (North Korea)	2468
+Renmin University	2469
+Representative to the United Nations (China)	2470
+Representatives (Afghanistan)	2471
+Representatives (Algeria)	2472
+Representatives (Bahrain)	2473
+Representatives (Belarus)	2474
+Representatives (Congo)	2475
+Representatives (France)	2476
+Representatives (Iraq)	2477
+Representatives (Japan)	2478
+Representatives (Kyrgyzstan)	2479
+Representatives (Libya)	2480
+Representatives (Lithuania)	2481
+Representatives (Nigeria)	2482
+Representatives (Poland)	2483
+Representatives (Romania)	2484
+Representatives (Russia)	2485
+Representatives (Slovakia)	2486
+Representatives (Syria)	2487
+Representatives (United States)	2488
+Republican People's Party	2489
+Reserve Personnel (Iran)	2490
+Reserve Personnel (Kyrgyzstan)	2491
+Reserve Personnel (Philippines)	2492
+Reserve Personnel (Qatar)	2493
+Reserve Personnel (Russia)	2494
+Reserve Personnel (South Korea)	2495
+Reserve Personnel (Turkey)	2496
+Reserve Personnel (Ukraine)	2497
+Resham Singh	2498
+Resistance Leader (Palestinian Territory, Occupied)	2499
+Reuben Theodore Sindac	2500
+Reuven Rivlin	2501
+Revolutionary People's Party of Laos	2502
+Revolutionary Socialist Party	2503
+Reza Najafi	2504
+Ri Su Yong	2505
+Richard Sulík	2506
+Riek Machar	2507
+Rights Activist (China)	2508
+Rights Activist (Indonesia)	2509
+Rights Activist (South Africa)	2510
+Rights Activist (United Kingdom)	2511
+Rights Activist (Zambia)	2512
+Rioter (India)	2513
+Rioter (Myanmar)	2514
+Robert Cazanciuc	2515
+Robert Hughes	2516
+Robert Kocharyan	2517
+Robert McClelland	2518
+Robert Menendez	2519
+Roberto Maroni	2520
+Roberto Torres Gonzales	2521
+Rogelio Singson	2522
+Roger B. Wilson	2523
+Romania	2524
+Rosa Pacavira	2525
+Rosalinda Baldoz	2526
+Rostam Qasemi	2527
+Rostec	2528
+Royal Administration (Argentina)	2529
+Royal Administration (Australia)	2530
+Royal Administration (Cook Islands)	2531
+Royal Administration (Jordan)	2532
+Royal Administration (Nigeria)	2533
+Royal Administration (Pakistan)	2534
+Royal Administration (Romania)	2535
+Royal Administration (Saudi Arabia)	2536
+Royal Administration (Spain)	2537
+Royal Air Force	2538
+Royal Bank of Scotland	2539
+Royal Thai Navy	2540
+Royal Thai Police	2541
+Ruben Dario Alzate	2542
+Ruhakana Rugunda	2543
+Ruling Party (India)	2544
+Ruling Party (Namibia)	2545
+Ruling Party (Pakistan)	2546
+Ruling Party (South Korea)	2547
+Ruling Party (Sri Lanka)	2548
+Ruling Party (Tanzania)	2549
+Ruling Party (Zambia)	2550
+Rupiah Banda	2551
+Russian Navy	2552
+Russian News Channel Vesti	2553
+Ruth Davidson	2554
+Ryoo Kihl-jae	2555
+S.P. Singh	2556
+Sabah Khaled Al-Hamad Al-Sabah	2557
+Sadiq al-Mahdi	2558
+Saimir Tahiri	2559
+Salim Idris	2560
+Salman Khurshid	2561
+Salvador Sánchez Cerén	2562
+Sam Nda-Isaiah	2563
+Samsung	2564
+Samuel J. Locklear	2565
+Samuel Sitta	2566
+Santos Edelmar Lopez	2567
+Sar Kheng	2568
+Sarah Hanson-Young	2569
+Sarah Jubril	2570
+Sarath Fonseka	2571
+Saud bin Faisal bin Abdul-Aziz	2572
+Sauli Niinistö	2573
+Sawarmi Khaled Saad	2574
+Sayed Fazlollah Wahidi	2575
+Sayed Khaiyum	2576
+Scholar (Colombia)	2577
+Scholar (Iraq)	2578
+Scholar (Nigeria)	2579
+Scholar (Sudan)	2580
+Scientist (Colombia)	2581
+Scotland Yard	2582
+Scott Emerson	2583
+Sean Edwards	2584
+Sebastian Kurz	2585
+Sebastian Ndeitunga	2586
+Secret Agent (Afghanistan)	2587
+Secret Agent (Ireland)	2588
+Secret Agent (Philippines)	2589
+Secretariat (Mexico)	2590
+Secretariat (Yemen)	2591
+Secretariat of Foreign Affairs	2592
+Secretary of State for the Home Department	2593
+Security Council (Russia)	2594
+Security Service of Ukraine	2595
+Senate (Argentina)	2596
+Senate (Dominican Republic)	2597
+Senate (Ireland)	2598
+Senate (Italy)	2599
+Senate (North Korea)	2600
+Senate (Romania)	2601
+Senate (Uganda)	2602
+Senate (Ukraine)	2603
+Senate Armed Services Committee	2604
+Separatist (Armenia)	2605
+Separatist (India)	2606
+Separatist (Thailand)	2607
+Separatist (Yemen)	2608
+Serbia	2609
+Serge Lazarevic	2610
+Sergey Kuzhugetovich Shoygu	2611
+Sergey Viktorovich Lavrov	2612
+Sergey Zheleznyak	2613
+Sergio Massa	2614
+Serhiy Hayduk	2615
+Serik Akhmetov	2616
+Settler (Israel)	2617
+Settler (Philippines)	2618
+Sex Trade (China)	2619
+Seyoum Mesfin	2620
+Seyran Ohanyan	2621
+Shabelle Media Network	2622
+Shah Mehmood Qureshi	2623
+Shakib Qortbawi	2624
+Sharad Pawar	2625
+Sharad Yadav	2626
+Shaukat Aziz	2627
+Sheikh Abdiaziz abu Mus'ab	2628
+Sheikh Ahmed Abdullah	2629
+Sheikh Ali Salman	2630
+Sheikh Hamad bin Isa al Khalifah	2631
+Sheikh Hamad bin Khalifa al-Thani	2632
+Sheikh Hasina Wajed	2633
+Sheikh Khaled Al Jarrah Al Sabah	2634
+Shen Jong-chin	2635
+Shen Lyushun	2636
+Shibu Soren	2637
+Shigeru Ishiba	2638
+Shimon Peres	2639
+Shiv Sena	2640
+Shivraj Patil	2641
+Shivraj Singh Chouhan	2642
+Shkelqim Cani	2643
+Shrien Dewani	2644
+Shura Council	2645
+Sidiki Kaba	2646
+Sierra Leone	2647
+Sikh (India)	2648
+Sikh Militant	2649
+Silvio Berlusconi	2650
+Simbarashe Mumbengegwi	2651
+Simon Gass	2652
+Simon Khaya Moyo	2653
+Simos Kedikoglou	2654
+Sindh High Court	2655
+Slavko Linic	2656
+Slovenia	2657
+Smriti Irani	2658
+Social Democratic Party (Lithuania)	2659
+Social Worker (India)	2660
+Socialist Party (Hungary)	2661
+Solidarity	2662
+Solomon Arase	2663
+Solomon Makgale	2664
+Soumeylou Boubèye Maiga	2665
+South Africa	2666
+South African National Defence Force	2667
+South Korea	2668
+South Sudan	2669
+Sovan Chatterjee	2670
+Spanish Socialist Workers' Party	2671
+Special Court (Lebanon)	2672
+Special Court (Pakistan)	2673
+Special Rapporteurs of the United Nations	2674
+Spy Plane (Iran)	2675
+Sri Lanka United National Party	2676
+Staffan de Mistura	2677
+State Media (China)	2678
+State Media (Lebanon)	2679
+State Media (Tunisia)	2680
+State Oil Company of Azerbaijan Republic	2681
+State Security Court (United Arab Emirates)	2682
+State Security Service	2683
+Stefan Viktor Okonek	2684
+Steffen Seibert	2685
+Stephane Le Foll	2686
+Stephen Davis	2687
+Stephen Williams	2688
+Stuart A. Levey	2689
+Student (Africa)	2690
+Student (Bahrain)	2691
+Student (Bangladesh)	2692
+Student (Burkina Faso)	2693
+Student (Hong Kong)	2694
+Student (Iran)	2695
+Student (Iraq)	2696
+Student (Kenya)	2697
+Student (Lebanon)	2698
+Student (Liberia)	2699
+Student (Mexico)	2700
+Student (Senegal)	2701
+Student (South Korea)	2702
+Student (Sudan)	2703
+Student (Thailand)	2704
+Student (Venezuela)	2705
+Student (Yemen)	2706
+Student Dissident (Hong Kong)	2707
+Sudan	2708
+Sudan People's Liberation Army	2709
+Sue-Ellen Kovack	2710
+Sujatha Singh	2711
+Sukhbir Badal	2712
+Sukhumbhand Paribatra	2713
+Sule Lamido	2714
+Suleiman Abba	2715
+Sultan bin Saeed Al Mansouri	2716
+Sumitra Mahajan	2717
+Sunil Kumar	2718
+Surakiart Sathirathai	2719
+Surasak Kanchanarat	2720
+Sushil Koirala	2721
+Susi Pudjiastuti	2722
+Svoboda	2723
+Swaziland	2724
+Syed Akbaruddin	2725
+TDC	2726
+Taavi Rõivas	2727
+Tahirul Qadri	2728
+Tajikistan	2729
+Takata	2730
+Takeshi Onaga	2731
+Tamar Beruchashvili	2732
+Tamil (Sri Lanka)	2733
+Tamil National Alliance	2734
+Tan Sri Muhyiddin Yassin	2735
+Tanzania	2736
+Tanzania Investment Bank	2737
+Tarun Gogoi	2738
+Tea Banh	2739
+Tea Tsulukiani	2740
+Ted Poe	2741
+Tedjo Edhy Purdijatno	2742
+Tehrik-i-Taliban Pakistan	2743
+Tenants (Australia)	2744
+Teo Chee Hean	2745
+Teodoro Nguema Obiang Mangue	2746
+Teodoro Obiang Nguema Mbasogo	2747
+Terrorist (Boko Haram)	2748
+Terrorist (Germany)	2749
+Terrorist (Hamas)	2750
+Terrorist (Islamic State of Iraq and the Levant)	2751
+Terrorist (Nigeria)	2752
+Terrorist (Syria)	2753
+Terrorist (United Kingdom)	2754
+Terrorist Leader (Al Qaeda)	2755
+Terrorist Leader (Islamic State of Iraq and the Levant)	2756
+Terrorist Leader (Libya)	2757
+Terrorist Leader (Pakistan)	2758
+Terrorist Leader (Syria)	2759
+Terrorist Organization (Iraq)	2760
+Terrorist Organization (Palestinian Territory, Occupied)	2761
+Terry McAuliffe	2762
+Tesco	2763
+Teshome Togo	2764
+Thailand	2765
+Thaksin Shinawatra	2766
+Tharman Shanmugaratnam	2767
+The Chronicle	2768
+The Hague	2769
+The Standard	2770
+The Sunday Independent	2771
+Theresa May	2772
+Thief (India)	2773
+Thief (Iraq)	2774
+Thief (Philippines)	2775
+Tim Hudak	2776
+Toba	2777
+Togo	2778
+Tokon Mamytov	2779
+Tom Motsoahae Thabane	2780
+Tomislav Nikolić	2781
+Tomás Malatinský	2782
+Tonga	2783
+Tony Blair	2784
+Tony Momoh	2785
+Tony Sithembiso Yengeni	2786
+Tony Tan Keng Yam	2787
+Toomas Hendrik Ilves	2788
+Toru Hashimoto	2789
+Tourist (South Korea)	2790
+Tourist (United Kingdom)	2791
+Tourist (United States)	2792
+Trade Union Congress	2793
+Transparency International	2794
+Transport (Spain)	2795
+Treasury/Finance Ministry (Azerbaijan)	2796
+Treasury/Finance Ministry (Bangladesh)	2797
+Treasury/Finance Ministry (Germany)	2798
+Treasury/Finance Ministry (Greece)	2799
+Treasury/Finance Ministry (Japan)	2800
+Treasury/Finance Ministry (Lebanon)	2801
+Treasury/Finance Ministry (Liberia)	2802
+Treasury/Finance Ministry (Madagascar)	2803
+Treasury/Finance Ministry (Nigeria)	2804
+Treasury/Finance Ministry (Peru)	2805
+Treasury/Finance Ministry (United Arab Emirates)	2806
+Trinidad and Tobago	2807
+Troy Buswell	2808
+Trust Bank	2809
+Tsai Ing-wen	2810
+Tsakhiagiyn Elbegdorj	2811
+Tzipi Livni	2812
+U.S. Pacific Air Force	2813
+U.S. Special Operations Command Central	2814
+UN Security Council	2815
+USS Kidd	2816
+USS Pinckney	2817
+Uganda People's Defence Force	2818
+Uganda Police Force	2819
+Uhuru	2820
+Uhuru Muigai Kenyatta	2821
+Uighur (China)	2822
+Ukrainian National Guard	2823
+Ukrinform	2824
+Umar al Bashir	2825
+Umaru Tanko Al-Makura	2826
+Umayya Touqan	2827
+Undersecretary (Iraq)	2828
+Undersecretary (Kuwait)	2829
+Undersecretary (Sudan)	2830
+Undersecretary (United Arab Emirates)	2831
+Undersecretary (United States)	2832
+Union Of Arab Banks	2833
+Union of Right Forces	2834
+United Aircraft Corporation	2835
+United Arab Emirates	2836
+United Democratic Movement	2837
+United Democratic Party	2838
+United Nations Children's Fund	2839
+United Party for National Development	2840
+United Progressive Alliance	2841
+United Russia	2842
+United States Senate	2843
+University of Zimbabwe	2844
+Uri Ariel	2845
+Urmas Reinsalu	2846
+Ustadz Habier Malik	2847
+Valdis Dombrovskis	2848
+Valens Munyabagisha	2849
+Valeriu Troenco	2850
+Vanguard	2851
+Vanuatu	2852
+Vasily Golubev	2853
+Vassilis Kikilias	2854
+Vasundhara Raje	2855
+Veera Somkwamkid	2856
+Verkhovna Rada	2857
+Vesna Pusić	2858
+Veterans (Angola)	2859
+Veterans (Croatia)	2860
+Veterans (United Kingdom)	2861
+Vethowen Girl	2862
+Victor Ponta	2863
+Victoria Nuland	2864
+Vietnam	2865
+Viktor Chirkov	2866
+Viktor Orban	2867
+Viktor Yushchenko	2868
+Villager (Burundi)	2869
+Villager (India)	2870
+Villager (Namibia)	2871
+Villager (Philippines)	2872
+Villager (Sudan)	2873
+Villager (Tanzania)	2874
+Villager (Thailand)	2875
+Vincent C. Siew	2876
+Viorel Hrebenciuc	2877
+Virgin Atlantic Airways	2878
+Vitali Klitschko	2879
+Vitaliy Yarema	2880
+Vlad Filat	2881
+Vladimir Chizhov	2882
+Vlastimil Picek	2883
+Vojislav Šešelj	2884
+Volodymyr Konstantynov	2885
+Volvo	2886
+WAM news agency	2887
+Wan Azizah	2888
+Wang Anshun	2889
+Wang Yang	2890
+Warren Truss	2891
+Wendy Sherman	2892
+West Papua	2893
+Western Sahara	2894
+Will Hodgman	2895
+Willem-Alexander	2896
+William Kabogo	2897
+William Lukuvi	2898
+William Ruto	2899
+Winston Peters	2900
+Winthai Suvari	2901
+Women (Afghanistan)	2902
+Women (Angola)	2903
+Women (Argentina)	2904
+Women (Australia)	2905
+Women (Cambodia)	2906
+Women (Canada)	2907
+Women (China)	2908
+Women (Costa Rica)	2909
+Women (Denmark)	2910
+Women (Egypt)	2911
+Women (France)	2912
+Women (Hong Kong)	2913
+Women (Indonesia)	2914
+Women (Israel)	2915
+Women (Kenya)	2916
+Women (Malaysia)	2917
+Women (Mexico)	2918
+Xi Jinping	2919
+Xu Caihou	2920
+Yair Lapid	2921
+Yakubu Gowon	2922
+Yamoussa Camara	2923
+Yannis Stournaras	2924
+Yasuo Fukuda	2925
+Yeganeh Salehi	2926
+Yemi Osinbajo	2927
+Yerbolat Dosayev	2928
+Yevgeny Shevchuk	2929
+Yevhen Perebyinis	2930
+Yoani Sánchez	2931
+Yogendra Yadav	2932
+Yoon Sang-jick	2933
+Yoshimi Watanabe	2934
+Yoshitaka Shindo	2935
+Your Party	2936
+Youssef Boutros Ghali	2937
+Yu Zhengsheng	2938
+Yulia Tymoshenko	2939
+Yunus Qanuni	2940
+Yuriy Lutsenko	2941
+Zafar Ali Shah	2942
+Zagazig University	2943
+Zaheerul Islam	2944
+Zakir Hasanov	2945
+Zalmai Rassoul	2946
+Zeid Ra'ad Al Hussein	2947
+Zgharta	2948
+Zhang Dejiang	2949
+Zhang Yesui	2950
+Zhao Ziyang	2951
+Zheng Zeguang	2952
+Ziyad Abu-Ayn	2953
+Álvaro Antonio Alemán Healy	2954
