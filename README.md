@@ -4,15 +4,15 @@ This is the code for the paper "Coherent Temporal Logical Reasoning via Fusing M
 
 ## Requirements
 
-- python 3.6.0
-- colorama 0.4.4
-- matplotlib 3.3.4
-- networkx 2.5.1
-- numpy 1.18.5
-- scikit_learn 1.1.2
-- torch 1.9.1
-- tqdm 4.64.0
-- transformers 4.18.0
+- python 3.9.6
+- colorama 0.4.6
+- matplotlib 3.8.3
+- networkx 3.2.1
+- numpy 1.26.4
+- torch 2.2.2
+- tqdm 4.66.2
+- transformers 4.39.3
+- peft 0.10.0
 
 ## Quick Start
 
