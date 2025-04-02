@@ -168,18 +168,10 @@ def findPathsHead(neighbors, input_quads, paths,ranking_quads, num_path,do_sampl
         if len(search_paths) ==0:
             continue
         else:
-            # query = get_sentence([quads[0]])
-            # text_paths = get_sentence(search_paths)
             ranking_quads.extend(quads)
-            # sp = searchPaths(neighbors,quads[0],num_path,do_sample=do_sample,rel_graph=False)
-            # if len(sp) != len(search_paths):
-            #     searchPaths(neighbors,quads[0],num_path,do_sample=do_sample,rel_graph=False)
-            #     searchPaths(neighbors, quads[0], num_path, do_sample=do_sample, rel_graph=True)
-            # search_paths.extend(sp)
             paths.append(search_paths)
         for line in quads[1:]:
             search_paths = searchPaths(neighbors,line,num_path,do_sample=True)
-            # search_paths.extend(searchPaths(neighbors, line, num_path, do_sample=True, rel_graph=False))
             paths.append(search_paths)
 
 def searchPaths(neighbors,line,num_path,do_sample=True,rel_graph=True):
@@ -206,7 +198,6 @@ def searchPaths(neighbors,line,num_path,do_sample=True,rel_graph=True):
             visited.remove((u,timestamp))
             continue
         g = 0
-        # sorted_edges = neighbors[u][np.where(np.isin(neighbors[u][:,2],subgraph))]
         if u not in seen_path.keys():
             seen_path[u] = neighbors[u][np.where(np.isin(neighbors[u][:,2],subgraph))]
             if rel_graph:
@@ -217,14 +208,8 @@ def searchPaths(neighbors,line,num_path,do_sample=True,rel_graph=True):
             stack.pop()
             del seen_path[u]
             continue
-        # if rel_graph:
-        #     sorted_edges = np.array(sorted(sorted_edges, key=lambda x: (-graph_data.A[x[1]][rel], -x[3])))
-        # else:
-        #     sorted_edges = np.array(sorted(sorted_edges, key=lambda x: (relation_count[x[1]], -x[3])))
 
         filterd_edges = seen_path[u][np.where(seen_path[u][:, 3] <= timestamp)]
-        # nodes = sorted(history_graph[u], key=lambda x: len(history_graph[u][x]))
-        # nodes = filterd_edges[:,2]
 
         for edge in filterd_edges:
             if edge[2]==s:
@@ -248,30 +233,12 @@ def searchPaths(neighbors,line,num_path,do_sample=True,rel_graph=True):
                 print(2)
         if g == 0:
             stack.pop()
-            # if len(seen_path[u]) >0:
-            #     visited = visited[~np.all(visited==seen_path[u],axis=1)]
             del seen_path[u]
     if len(paths)==0 and do_sample==True:
         sample_edge = edge_sample(neighbors,s,o,r)
         if sample_edge.any():
             paths.append(sample_edge)
     return paths
-
-def findPathsRelation(neighbors, input_quads, paths,ranking_quads, num_path):
-    for i in range(0,len(input_quads),args.neg_size):
-        quads = input_quads[i:i+args.neg_size]
-        search_paths = searchPaths(neighbors,quads[0],num_path,do_sample=False)
-        if len(search_paths) ==0:
-            continue
-
-        else:
-            # query = get_sentence([quads[0]])
-            # text_paths = get_sentence(search_paths)
-            ranking_quads.extend(quads)
-            paths.append(search_paths)
-        # for line in quads:
-        #     search_paths = searchPaths(neighbors,line,num_path,do_sample=True)
-        #     paths.append(search_paths)
 
 data_list = data.all_idx
 data_list = np.vstack((data.train_idx,data.valid_idx,data.test_idx)) # only for acled_ind
@@ -296,8 +263,6 @@ for idx in tqdm(time_list):
 
     if args.finding_mode == 'head':
         findPathsHead(neighbors, input_list[idx-train_idx], ranking_paths,ranking_quads, args.npaths_ranking)
-    else:
-        findPathsRelation(neighbors, input_list[idx-train_idx], ranking_paths,ranking_quads, args.npaths_ranking)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -306,19 +271,3 @@ with open(os.path.join(output_dir, f"paths_{args.training_mode}.pickle"), "wb") 
 
 with open(ranking_dataset, 'wb') as f:
     pickle.dump(np.array(ranking_quads),f)
-
-print("number of extracted paths:",len(ranking_paths))
-    # for path_group in ranking_paths:
-    #     f.write(str(len(path_group)) + "\n")
-    #     for path in path_group:
-    #         for entity in path:
-    #             f.write(entity + "\t")
-    #         f.write("\n")
-
-# with open(os.path.join(output_dir, f"relation_paths_{args.training_mode}.txt"), "w", encoding='utf-8') as f:
-#     for path_group in ranking_paths:
-#         f.write(str(len(path_group)) + "\n")
-#         for path in path_group:
-#             for i in range(len(path) - 1):
-#                 f.write(G[path[i]][path[i + 1]]['relation'] + "\t")
-#             f.write("\n")
